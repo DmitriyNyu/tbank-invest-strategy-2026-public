@@ -1,0 +1,56 @@
+{
+ "id": "30736511",
+ "source": "https://flo.uri.sh/visualisation/30736511/embed",
+ "template_id": "2240",
+ "version": "5",
+ "title": "Лидеры и аутсайдеры среди неоактивов с начала года",
+ "key_settings": {
+  "layout.source_name": "TradingView "
+ },
+ "column_names": {
+  "rows": {
+   "columns": [
+    "Актив",
+    "Изменение цены с начала года"
+   ]
+  }
+ },
+ "tables": {
+  "rows": {
+   "header": [
+    "Актив",
+    "Изменение цены с начала года"
+   ],
+   "rows": [
+    [
+     "Акции Applovin",
+     "−66%"
+    ],
+    [
+     "Акции Reddit",
+     "−60%"
+    ],
+    [
+     "Акции Boston Scientific",
+     "−55%"
+    ],
+    [
+     "Акции Bloom Energy",
+     "130%"
+    ],
+    [
+     "Акции AMD",
+     "136%"
+    ],
+    [
+     "Акции Sandisk",
+     "400%"
+    ]
+   ]
+  }
+ },
+ "size_on_site": {
+  "w": 816,
+  "h": 300
+ }
+}

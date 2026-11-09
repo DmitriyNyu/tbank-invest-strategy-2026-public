@@ -1,0 +1,60 @@
+{
+ "id": "28639396",
+ "source": "https://flo.uri.sh/visualisation/28639396/embed",
+ "template_id": "2677",
+ "version": "145",
+ "title": "Динамика прибыли на акцию (EPS) в 2025 году",
+ "key_settings": {
+  "axes_highlights.y_lines": "Чистая прибыль сектора :: -8",
+  "chart_type": "column_grouped",
+  "layout.source_name": "отчетность компаний по МСФО, данные ЦБ РФ для сектора",
+  "number_format_secondary.suffix": "%",
+  "number_format.suffix": "%"
+ },
+ "column_names": {
+  "data": {
+   "label": "Период",
+   "value": [
+    "Динамика прибыли на акцию (EPS)"
+   ]
+  }
+ },
+ "tables": {
+  "data": {
+   "header": [
+    "Период",
+    "Динамика прибыли на акцию (EPS)"
+   ],
+   "rows": [
+    [
+     "ДОМ.РФ",
+     "22%"
+    ],
+    [
+     "Сбер",
+     "8%"
+    ],
+    [
+     "МТС Банк",
+     "-10%"
+    ],
+    [
+     "ВТБ",
+     "-16%"
+    ],
+    [
+     "БСПБ",
+     "-25%"
+    ],
+    [
+     "Совкомбанк",
+     "-36%"
+    ]
+   ]
+  }
+ },
+ "size_on_site": {
+  "w": 1104,
+  "h": 500
+ }
+}

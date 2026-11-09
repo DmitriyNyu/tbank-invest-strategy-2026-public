@@ -1,0 +1,73 @@
+{
+ "id": "28721033",
+ "source": "https://flo.uri.sh/visualisation/28721033/embed",
+ "template_id": "2240",
+ "version": "34",
+ "title": "Без названия",
+ "key_settings": {
+  "layout.source_name": "Т-Инвестиции"
+ },
+ "column_names": {
+  "rows": {
+   "columns": [
+    "Облигация",
+    "ISIN",
+    "Валюта номинала",
+    "Погашение",
+    "Доходность к погашению, % годовых"
+   ]
+  }
+ },
+ "tables": {
+  "rows": {
+   "header": [
+    "Облигация",
+    "ISIN",
+    "Валюта номинала",
+    "Погашение",
+    "Доходность к погашению, % годовых"
+   ],
+   "rows": [
+    [
+     "Акрон БО-001P-07",
+     "<a href=\"https://www.tbank.ru/invest/bonds/RU000A10B347/\">RU000A10B347</a>",
+     "CNY",
+     "04.03.2027",
+     "7,10%"
+    ],
+    [
+     "Газпром Нефть, 006Р-03R",
+     "<a href=\"https://www.tbank.ru/invest/bonds/SIBN6P3/\">RU000A10CLW5</a>",
+     "USD",
+     "19.08.2027",
+     "7,44%"
+    ],
+    [
+     "НОВАТЭК, 001P-04",
+     "<a href=\"https://www.tbank.ru/invest/bonds/RU000A10BV55/\">RU000A10BV55</a>",
+     "USD",
+     "29.05.2030",
+     "7,44%"
+    ],
+    [
+     "Металлоинвест, 001P-02",
+     "<a href=\"https://www.tbank.ru/invest/bonds/RU000A1057D4/\">RU000A1057D4</a>",
+     "CNY",
+     "10.09.2027",
+     "7,23%"
+    ],
+    [
+     "Газпром Капитал, ЗО28-1-Е",
+     "<a href=\"https://www.tbank.ru/invest/bonds/RU000A105BY1/\">RU000A105BY1</a>",
+     "EUR",
+     "17.11.2028",
+     "7,51%"
+    ]
+   ]
+  }
+ },
+ "size_on_site": {
+  "w": 1104,
+  "h": 350
+ }
+}

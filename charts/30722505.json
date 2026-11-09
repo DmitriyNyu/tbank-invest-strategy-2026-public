@@ -1,0 +1,75 @@
+{
+ "id": "30722505",
+ "source": "https://flo.uri.sh/visualisation/30722505/embed",
+ "template_id": "2677",
+ "version": "108",
+ "title": "Доходность свободного денежного потока",
+ "key_settings": {
+  "axes_highlights.x_areas": "рецессия доткомов:: 28.02.2001 >> 30.11.2001",
+  "axes_highlights.x_lines": ":: Прогноз",
+  "axes_highlights.y_lines": "::0",
+  "chart_type": "column_stacked",
+  "layout.footer_note_secondary": "При текущих ценах на сырье и курсе рубля",
+  "layout.source_name": "оценки Т-Инвестиций",
+  "number_format_secondary.suffix": "х",
+  "number_format.suffix": "%"
+ },
+ "column_names": {
+  "data": {
+   "label": "",
+   "value": [
+    "Доходность FCF"
+   ]
+  }
+ },
+ "tables": {
+  "data": {
+   "header": [
+    "label",
+    "Доходность FCF"
+   ],
+   "rows": [
+    [
+     "ФосАгро",
+     "10%"
+    ],
+    [
+     "Распадская",
+     "9,4%"
+    ],
+    [
+     "НЛМК",
+     "7,7%"
+    ],
+    [
+     "ММК",
+     "6,5%"
+    ],
+    [
+     "Норникель",
+     "6,4%"
+    ],
+    [
+     "Северсталь",
+     "4,5%"
+    ],
+    [
+     "РУСАЛ",
+     "-1,7%"
+    ],
+    [
+     "АЛРОСА",
+     "-10%"
+    ],
+    [
+     "Мечел",
+     "-15%"
+    ]
+   ]
+  }
+ },
+ "size_on_site": {
+  "w": 816,
+  "h": 450
+ }
+}

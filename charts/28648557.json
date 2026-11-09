@@ -1,0 +1,54 @@
+{
+ "id": "28648557",
+ "source": "https://flo.uri.sh/visualisation/28648557/embed",
+ "template_id": "2677",
+ "version": "8",
+ "title": "Присутствие Ближнего Востока на товарно-сырьевых рынках",
+ "key_settings": {
+  "axes_highlights.x_areas": "рецессия доткомов:: 28.02.2001 >> 30.11.2001",
+  "axes_highlights.x_lines": ":: Прогноз",
+  "axes_highlights.y_lines": "::0",
+  "chart_type": "bar_grouped",
+  "layout.source_name": "IAI, IFA, WSA, Т-Инвестиции",
+  "number_format_secondary.suffix": "%",
+  "number_format.suffix": "%"
+ },
+ "column_names": {
+  "data": {
+   "label": "",
+   "value": [
+    "Доля от мирового производства"
+   ]
+  }
+ },
+ "tables": {
+  "data": {
+   "header": [
+    "label",
+    "Доля от мирового производства"
+   ],
+   "rows": [
+    [
+     "Диаммофос (DAP)",
+     "17%"
+    ],
+    [
+     "Карбамид",
+     "13%"
+    ],
+    [
+     "Алюминий",
+     "9,0%"
+    ],
+    [
+     "Сталь",
+     "3,2%"
+    ]
+   ]
+  }
+ },
+ "size_on_site": {
+  "w": 1104,
+  "h": 340
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "id": "28685297",
+ "source": "https://flo.uri.sh/visualisation/28685297/embed",
+ "template_id": "2677",
+ "version": "48",
+ "title": "Динамика доходности разных классов активов с начала 2026 года",
+ "key_settings": {
+  "axes_highlights.x_areas": "рецессия доткомов:: 28.02.2001 >> 30.11.2001",
+  "axes_highlights.x_lines": ":: Прогноз",
+  "axes_highlights.y_lines": "::0",
+  "chart_type": "column_grouped",
+  "layout.source_name": "CBonds, Т-Инвестиции",
+  "number_format_secondary.suffix": "%",
+  "number_format.suffix": "%"
+ },
+ "column_names": {
+  "data": {
+   "label": "Класс активов",
+   "value": [
+    "Доходность"
+   ]
+  }
+ },
+ "tables": {
+  "data": {
+   "header": [
+    "Класс активов",
+    "Доходность"
+   ],
+   "rows": [
+    [
+     "USDRUB",
+     "-2,7%"
+    ],
+    [
+     "Валютные облигации",
+     "-2,2%"
+    ],
+    [
+     "Индекс Средней и малой капитализации",
+     "0,3%"
+    ],
+    [
+     "Индекс Мосбиржи",
+     "0,9%"
+    ],
+    [
+     "Денежный рынок",
+     "4,6%"
+    ],
+    [
+     "Индекс RGBI полной доходности",
+     "5,0%"
+    ],
+    [
+     "Корпоративные облигации",
+     "5,1%"
+    ],
+    [
+     "GLDRUB",
+     "6,1%"
+    ]
+   ]
+  }
+ },
+ "size_on_site": {
+  "w": 1104,
+  "h": 550
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "id": "30647020",
+ "source": "https://flo.uri.sh/visualisation/30647020/embed",
+ "template_id": "93928",
+ "version": "75",
+ "title": "Целевой объем программы внутренних заимствований Минфина",
+ "key_settings": {
+  "annotations.defaults.text_weight": "bold",
+  "axes_highlights.x_areas": "::2027П>>2029П",
+  "axes_highlights.y_lines": "Индекс Мосбиржи = −15% :: -15",
+  "chart_type": "column_grouped",
+  "layout.source_name": "Минфин, расчеты Т-Инвестиций",
+  "legend_categorical.orientation": "horizontal",
+  "number_format_secondary.suffix": "%"
+ },
+ "column_names": {
+  "data": {
+   "label": "",
+   "metadata": [],
+   "value": [
+    "Закон о федеральном бюджете 2024–2026",
+    "Закон о федеральном бюджете 2025–2027",
+    "Закон о федеральном бюджете 2026–2028",
+    "Проект Закона о федеральном бюджете 2027–2029"
+   ]
+  }
+ },
+ "tables": {
+  "data": {
+   "header": [
+    "label",
+    "Закон о федеральном бюджете 2024–2026",
+    "Закон о федеральном бюджете 2025–2027",
+    "Закон о федеральном бюджете 2026–2028",
+    "Проект Закона о федеральном бюджете 2027–2029"
+   ],
+   "rows": [
+    [
+     "2024",
+     4.1,
+     null,
+     null,
+     null
+    ],
+    [
+     "2025",
+     4.4,
+     4.8,
+     null,
+     null
+    ],
+    [
+     "2026П",
+     4.9,
+     5.1,
+     5.5,
+     null
+    ],
+    [
+     "2027П",
+     null,
+     5.2,
+     5.4,
+     7.7
+    ],
+    [
+     "2028П",
+     null,
+     null,
+     6.2,
+     7.4
+    ],
+    [
+     "2029П",
+     null,
+     null,
+     null,
+     8
+    ]
+   ]
+  }
+ },
+ "size_on_site": {
+  "w": 816,
+  "h": 500
+ }
+}

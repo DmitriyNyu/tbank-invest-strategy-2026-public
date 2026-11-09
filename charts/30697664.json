@@ -1,0 +1,80 @@
+{
+ "id": "30697664",
+ "source": "https://flo.uri.sh/visualisation/30697664/embed",
+ "template_id": "2240",
+ "version": "59",
+ "title": "Без названия",
+ "key_settings": {
+  "layout.source_name": "расчеты Т-Инвестиций"
+ },
+ "column_names": {
+  "rows": {
+   "columns": [
+    "Облигация",
+    "ISIN",
+    "Валюта номинала",
+    "Эффективная доходность к погашению",
+    "Погашение"
+   ]
+  }
+ },
+ "tables": {
+  "rows": {
+   "header": [
+    "Облигация",
+    "ISIN",
+    "Валюта номинала",
+    "Эффективная доходность к погашению",
+    "Погашение"
+   ],
+   "rows": [
+    [
+     "Акрон, БО-002Р-02",
+     "<a href=\"https://www.tbank.ru/invest/bonds/RU000A10E6T6\">RU000A10E6T6</a>",
+     "CNY",
+     "9,20%",
+     "20.09.2028"
+    ],
+    [
+     "Атомэнергопром, 001P-06",
+     "<a href=\"https://www.tbank.ru/invest/bonds/RU000A10C3M0\">RU000A10C3M0</a>",
+     "USD",
+     "9,13%",
+     "13.07.2029"
+    ],
+    [
+     "ГМК Норильский никель, БО-001Р-17-CNY",
+     "<a href=\"https://www.tbank.ru/invest/bonds/RU000A10FC62\">RU000A10FC62</a>",
+     "CNY",
+     "8,70%",
+     "26.05.2030"
+    ],
+    [
+     "НОВАТЭК, 001Р-02",
+     "<a href=\"https://www.tbank.ru/invest/bonds/RU000A108G70\">RU000A108G70</a>",
+     "USD",
+     "8,86%",
+     "16.05.2029"
+    ],
+    [
+     "Полюс, ПБО-06",
+     "<a href=\"https://www.tbank.ru/invest/bonds/RU000A10EYG7\">RU000A10EYG7</a>",
+     "CNY",
+     "9,14%",
+     "13.07.2029 (p)"
+    ],
+    [
+     "ФосАгро, ЗО28-Д",
+     "<a href=\"https://www.tbank.ru/invest/bonds/RU000A106G56\">RU000A106G56</a>",
+     "USD",
+     "8,66%",
+     "16.09.2028"
+    ]
+   ]
+  }
+ },
+ "size_on_site": {
+  "w": 816,
+  "h": 400
+ }
+}

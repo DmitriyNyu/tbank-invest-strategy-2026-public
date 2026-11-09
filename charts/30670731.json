@@ -1,0 +1,84 @@
+{
+ "id": "30670731",
+ "source": "https://flo.uri.sh/visualisation/30670731/embed",
+ "template_id": "93928",
+ "version": "43",
+ "title": "Число эмитентов, допустивших дефолт",
+ "key_settings": {
+  "annotations.defaults.text_weight": "bold",
+  "axes_highlights.x_areas": "::2026*>>2028*",
+  "axes_highlights.y_lines": "Индекс Мосбиржи = −15% :: -15",
+  "chart_type": "column_grouped",
+  "layout.footer_note_secondary": "Рядом с годом указан средний рейтинг эмитентов до наступления проблем с обслуживанием долга в виде появления информации о невыплатах по обязательствам",
+  "layout.source_name": "Cbonds, расчеты Т-Инвестиций",
+  "legend_categorical.orientation": "horizontal",
+  "number_format_secondary.suffix": "%"
+ },
+ "column_names": {
+  "data": {
+   "label": "Год",
+   "metadata": [],
+   "value": [
+    "Число эмитентов, допустивших дефолт"
+   ]
+  }
+ },
+ "tables": {
+  "data": {
+   "header": [
+    "Год",
+    "Число эмитентов, допустивших дефолт"
+   ],
+   "rows": [
+    [
+     "2026 (B+)",
+     22
+    ],
+    [
+     "2025 (B+)",
+     15
+    ],
+    [
+     "2024 (B)",
+     9
+    ],
+    [
+     "2023 (B+)",
+     7
+    ],
+    [
+     "2022 (B-)",
+     11
+    ],
+    [
+     "2021 (ССС)",
+     8
+    ],
+    [
+     "2020 (ССС)",
+     8
+    ],
+    [
+     "2019 (нет)",
+     10
+    ],
+    [
+     "2018 (нет)",
+     11
+    ],
+    [
+     "2017 (ССС)",
+     20
+    ],
+    [
+     "2016 (ССС)",
+     17
+    ]
+   ]
+  }
+ },
+ "size_on_site": {
+  "w": 816,
+  "h": 300
+ }
+}

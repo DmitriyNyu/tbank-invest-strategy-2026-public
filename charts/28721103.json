@@ -1,0 +1,59 @@
+{
+ "id": "28721103",
+ "source": "https://flo.uri.sh/visualisation/28721103/embed",
+ "template_id": "2240",
+ "version": "15",
+ "title": "Без названия",
+ "key_settings": {
+  "layout.source_name": "Т-Инвестиции"
+ },
+ "column_names": {
+  "rows": {
+   "columns": [
+    "Облигация",
+    "ISIN",
+    "Базовая ставка",
+    "Эффективная премия",
+    "Погашение/put-оферта"
+   ]
+  }
+ },
+ "tables": {
+  "rows": {
+   "header": [
+    "Облигация",
+    "ISIN",
+    "Базовая ставка",
+    "Эффективная премия",
+    "Погашение/put-оферта"
+   ],
+   "rows": [
+    [
+     "Росэксимбанк, 002Р-04",
+     "<a href=\"https://www.tbank.ru/invest/bonds/RU000A1077V4/\">RU000A1077V4</a>",
+     "КС",
+     "1,6%",
+     "17.11.2026 (p)"
+    ],
+    [
+     "Селигдар, 001Р-07",
+     "<a href=\"https://www.tbank.ru/invest/bonds/RU000A10D3X6/\">RU000A10D3X6</a>",
+     "КС",
+     "3,7%",
+     "05.10.2027"
+    ],
+    [
+     "Авто Финанс Банк БО-001Р-13",
+     "<a href=\"https://www.tbank.ru/invest/bonds/RU000A109KY4/\">RU000A109KY4</a>",
+     "КС",
+     "2,2%",
+     "17.09.2027"
+    ]
+   ]
+  }
+ },
+ "size_on_site": {
+  "w": 1104,
+  "h": 250
+ }
+}

@@ -1,0 +1,64 @@
+{
+ "id": "28643027",
+ "source": "https://flo.uri.sh/visualisation/28643027/embed",
+ "template_id": "2240",
+ "version": "6",
+ "title": "Бенефициары под различные сценарии 2026 года",
+ "key_settings": {},
+ "column_names": {
+  "rows": {
+   "columns": [
+    "Снижение ключевой ставки",
+    "Возвращение аппетита к риску",
+    "Ослабление рубля",
+    "Урегулирование конфликта"
+   ]
+  }
+ },
+ "tables": {
+  "rows": {
+   "header": [
+    "Снижение ключевой ставки",
+    "Возвращение аппетита к риску",
+    "Ослабление рубля",
+    "Урегулирование конфликта"
+   ],
+   "rows": [
+    [
+     "<a href=\"https://www.tbank.ru/invest/stocks/YDEX\">Яндекс</a>",
+     "<a href=\"https://www.tbank.ru/invest/stocks/DATA\">Аренадата</a>",
+     "<a href=\"https://www.tbank.ru/invest/stocks/SNGSP\"> Сургутнефтегаз </a>",
+     "<a href=\"https://www.tbank.ru/invest/stocks/AFLT\">Аэрофлот</a>"
+    ],
+    [
+     "<a href=\"https://www.tbank.ru/invest/stocks/HEAD\">HeadHunter</a>",
+     "<a href=\"https://www.tbank.ru/invest/stocks/POSI\">Positive Technologies</a>",
+     "<a href=\"https://www.tbank.ru/invest/stocks/PLZL\">Полюс</a>",
+     "<a href=\"https://www.tbank.ru/invest/stocks/GAZP\">Газпром</a>"
+    ],
+    [
+     "<a href=\"https://www.tbank.ru/invest/stocks/GLRX/\">GloraX</a>",
+     "<a href=\"https://www.tbank.ru/invest/stocks/GLRX\">Глоракс</a>",
+     "<a href=\"https://www.tbank.ru/invest/stocks/PHOR\">ФосАгро</a>",
+     "<a href=\"https://www.tbank.ru/invest/stocks/NVTK\">Новатэк</a>"
+    ],
+    [
+     "<a href=\"https://www.tbank.ru/invest/stocks/MTSS\">МТС</a>",
+     "<a href=\"https://www.tbank.ru/invest/stocks/AQUA/\">Инарктика</a>",
+     "<a href=\"https://www.tbank.ru/invest/stocks/GMKN\">Норильский никель</a>",
+     "<a href=\"https://www.tbank.ru/invest/stocks/LKOH\">Лукойл</a>"
+    ],
+    [
+     "<a href=\"https://www.tbank.ru/invest/stocks/RTKM\">Ростелеком</a>",
+     "<a href=\"https://www.tbank.ru/invest/stocks/MBNK\">МТС Банк</a>",
+     "<a href=\"https://www.tbank.ru/invest/stocks/RUAL\">Русал</a>",
+     "<a href=\"https://www.tbank.ru/invest/stocks/MOEX\">Мосбиржа</a>"
+    ]
+   ]
+  }
+ },
+ "size_on_site": {
+  "w": 1104,
+  "h": 330
+ }
+}

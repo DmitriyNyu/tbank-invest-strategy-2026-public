@@ -1,0 +1,75 @@
+{
+ "id": "30658584",
+ "source": "https://flo.uri.sh/visualisation/30658584/embed",
+ "template_id": "93928",
+ "version": "92",
+ "title": "Ипотечные выдачи",
+ "key_settings": {
+  "annotations.defaults.text_weight": "bold",
+  "axes_highlights.x_areas": "::2026*>>2028*",
+  "axes_highlights.y_lines": "Индекс Мосбиржи = −15% :: -15",
+  "chart_type": "column_grouped",
+  "layout.source_name": "Банк России",
+  "legend_categorical.orientation": "horizontal",
+  "number_format_secondary.suffix": "%"
+ },
+ "column_names": {
+  "data": {
+   "label": "Месяц",
+   "metadata": [],
+   "value": [
+    "Вся ипотека, млрд руб."
+   ]
+  }
+ },
+ "tables": {
+  "data": {
+   "header": [
+    "Месяц",
+    "Вся ипотека, млрд руб."
+   ],
+   "rows": [
+    [
+     "31.01.2026",
+     425
+    ],
+    [
+     "28.02.2026",
+     290
+    ],
+    [
+     "31.03.2026",
+     330
+    ],
+    [
+     "30.04.2026",
+     359
+    ],
+    [
+     "31.05.2026",
+     328
+    ],
+    [
+     "30.06.2026",
+     483
+    ],
+    [
+     "31.07.2026",
+     363
+    ],
+    [
+     "31.08.2026",
+     381
+    ],
+    [
+     "31.10.2026",
+     617
+    ]
+   ]
+  }
+ },
+ "size_on_site": {
+  "w": 816,
+  "h": 300
+ }
+}

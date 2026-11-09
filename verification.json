@@ -1,0 +1,1811 @@
+{
+  "verified_at_utc": "2026-11-09T11:49:55.706258+00:00",
+  "pages": [
+    {
+      "source": "https://www.tbank.ru/invest/research/strategy/2026-autumn-update/",
+      "markdown": "autumn-2026/main.md",
+      "chart_ids": [
+        "30696146",
+        "30696201",
+        "30696231",
+        "30705444",
+        "30705670"
+      ],
+      "flourish_stories": []
+    },
+    {
+      "source": "https://www.tbank.ru/invest/research/strategy/2026-autumn-update/alternative/",
+      "markdown": "autumn-2026/alternative.md",
+      "chart_ids": [
+        "30694991",
+        "30695091",
+        "30695302",
+        "30695372",
+        "30695430",
+        "30695677",
+        "30764527",
+        "30771457",
+        "30745509",
+        "30748841",
+        "30748910",
+        "30749325",
+        "30749457",
+        "30749653",
+        "30750175",
+        "30749722",
+        "30749785",
+        "30696265",
+        "30696146",
+        "30696201",
+        "30696231",
+        "30658498",
+        "30658554",
+        "30658584",
+        "30658637",
+        "30658844",
+        "30658901",
+        "30736084",
+        "30736511",
+        "30736567",
+        "30736587"
+      ],
+      "flourish_stories": []
+    },
+    {
+      "source": "https://www.tbank.ru/invest/research/strategy/2026-autumn-update/bonds/",
+      "markdown": "autumn-2026/bonds.md",
+      "chart_ids": [
+        "30646337",
+        "30647020",
+        "30736058",
+        "30670731",
+        "30671681",
+        "30671747",
+        "30671931",
+        "30671868",
+        "30671951",
+        "30672095",
+        "30672428",
+        "30691817",
+        "30697477",
+        "30697664"
+      ],
+      "flourish_stories": []
+    },
+    {
+      "source": "https://www.tbank.ru/invest/research/strategy/2026-autumn-update/stocks/",
+      "markdown": "autumn-2026/stocks.md",
+      "chart_ids": [
+        "30629314",
+        "30629355",
+        "30629406",
+        "30629544",
+        "30630121",
+        "30630374",
+        "30630431",
+        "30594571",
+        "30594684",
+        "30594709",
+        "30722505",
+        "30722553",
+        "30722435",
+        "30722479",
+        "30722377",
+        "30746171",
+        "30722255",
+        "30647271",
+        "30647628",
+        "30647713",
+        "30645144",
+        "30645152",
+        "30645477",
+        "30645182",
+        "30630490"
+      ],
+      "flourish_stories": [
+        "3849199"
+      ]
+    },
+    {
+      "source": "https://www.tbank.ru/invest/research/strategy/2026/",
+      "markdown": "base-2026/main.md",
+      "chart_ids": [
+        "28734714",
+        "28753262",
+        "28646399"
+      ],
+      "flourish_stories": []
+    },
+    {
+      "source": "https://www.tbank.ru/invest/research/strategy/2026/alternative/",
+      "markdown": "base-2026/alternative.md",
+      "chart_ids": [
+        "28743347",
+        "28683812",
+        "28682551",
+        "28683981",
+        "28683446",
+        "28683561",
+        "28683626",
+        "28724695",
+        "28724889",
+        "28732446",
+        "28685297",
+        "28724367",
+        "28734714",
+        "28731172",
+        "28731325"
+      ],
+      "flourish_stories": []
+    },
+    {
+      "source": "https://www.tbank.ru/invest/research/strategy/2026/bonds/",
+      "markdown": "base-2026/bonds.md",
+      "chart_ids": [
+        "28730069",
+        "28721197",
+        "28720767",
+        "28720792",
+        "28721144",
+        "28720867",
+        "28721103",
+        "28720908",
+        "28720949",
+        "28720992",
+        "28721033"
+      ],
+      "flourish_stories": []
+    },
+    {
+      "source": "https://www.tbank.ru/invest/research/strategy/2026/short/",
+      "markdown": "base-2026/short.md",
+      "chart_ids": [],
+      "flourish_stories": []
+    },
+    {
+      "source": "https://www.tbank.ru/invest/research/strategy/2026/stocks/",
+      "markdown": "base-2026/stocks.md",
+      "chart_ids": [
+        "28643027",
+        "28643188",
+        "28643347",
+        "28643486",
+        "28643540",
+        "28756823",
+        "28757673",
+        "28644198",
+        "28644232",
+        "28648557",
+        "28644306",
+        "28639653",
+        "28639668",
+        "28657194",
+        "28639721",
+        "28639756",
+        "28682160",
+        "28682091",
+        "28657338",
+        "28639396",
+        "28639483",
+        "28657133",
+        "28644235"
+      ],
+      "flourish_stories": [
+        "3655534"
+      ]
+    }
+  ],
+  "embed_count": 127,
+  "unique_charts": 123,
+  "sanitization": "36 video embed JWT occurrences removed from raw HTML; publication uses fresh history",
+  "files": {
+    "README.md": {
+      "bytes": 6193,
+      "sha256": "cdf4bac87db66d8eed0559a9149c27842bd91aeacaf1a81c940ac3a1e3a10be8"
+    },
+    "autumn-2026/alternative.md": {
+      "bytes": 148517,
+      "sha256": "26de1f8f5d9748cb9304a04905992b112aad472ec19a64f535b3f786acb50023"
+    },
+    "autumn-2026/bonds.md": {
+      "bytes": 55877,
+      "sha256": "298433b3026ab061210008fe074d0443d188e2b3ec925f1a32e5588f9b93d1eb"
+    },
+    "autumn-2026/main.md": {
+      "bytes": 53975,
+      "sha256": "1fd95fbbb3d853dd5bfb762e2099dc34802b00fb6e92b12700a4cbb7d607345f"
+    },
+    "autumn-2026/stocks.md": {
+      "bytes": 137726,
+      "sha256": "7f0c320684857784f1e7b137c58c33907fb9f17675996fe462b5a12ef6b94078"
+    },
+    "base-2026/alternative.md": {
+      "bytes": 73279,
+      "sha256": "612123ed6e8a155073260dc5ada7555ca146f11d458b3f9764078870c846b3bb"
+    },
+    "base-2026/bonds.md": {
+      "bytes": 50345,
+      "sha256": "c713f0de76572a1f35797c38eeb627674f215731ba92dca0c78b573a67074ec8"
+    },
+    "base-2026/main.md": {
+      "bytes": 37201,
+      "sha256": "b011145388edd2fee04e6164dee10171a4e29eabd4a57c36ad20344f2562c96c"
+    },
+    "base-2026/short.md": {
+      "bytes": 17220,
+      "sha256": "c30fa36d9a00fe528b720a64950519cf3b7ae73b9ba33ae353638947b57ecf35"
+    },
+    "base-2026/stocks.md": {
+      "bytes": 135024,
+      "sha256": "a7cf471e035ff83adafda6b43e6932372a2106a18c795db7decdc898bf6b3b57"
+    },
+    "charts/28639396.csv": {
+      "bytes": 176,
+      "sha256": "32ad5952f50e39a8c47c20df0622a21037512e74d9e0f408c563ad793112306b"
+    },
+    "charts/28639396.json": {
+      "bytes": 1216,
+      "sha256": "c969b06338342db21b6045e19323b4d8e2c77f17d012a2c984a206da2f3705b5"
+    },
+    "charts/28639396.png": {
+      "bytes": 43770,
+      "sha256": "e5492670ca8f66f3ebfb56ecf4b3c18d3b62cdc2093be31d44eae1d142a24666"
+    },
+    "charts/28639483.csv": {
+      "bytes": 185,
+      "sha256": "36bc8fb58e8ece66c5c14c0c02233d2e48a384d31ba00e83511c4ff2353115e1"
+    },
+    "charts/28639483.json": {
+      "bytes": 1499,
+      "sha256": "db9ced25488320dbb3a6d97c3a0320ceaa4d8b6316ceb70b1f2c0136a02beed5"
+    },
+    "charts/28639483.png": {
+      "bytes": 53038,
+      "sha256": "a3aa50e7820845577a60f688f09da9983e25a526e3857ba212f47a250a0a5478"
+    },
+    "charts/28639653.csv": {
+      "bytes": 528,
+      "sha256": "faeba7f3bf4a524780ed3e9512e4535726268c225f40b8edc87a1304f5b7328c"
+    },
+    "charts/28639653.json": {
+      "bytes": 1922,
+      "sha256": "2d0535879512d90f242a12c3d182a228c7a5bcc9986dede50269f6717e09e0c9"
+    },
+    "charts/28639653.png": {
+      "bytes": 49316,
+      "sha256": "ca622f84d70f8fabbd4600fb024dd14d6820d55f8630f5e3fb34ab0ea90c16e0"
+    },
+    "charts/28639668.csv": {
+      "bytes": 551,
+      "sha256": "1c856635a2d30bb46ea8dc55bfaf4246f510b88409e9ab457ca7c932a1e3f969"
+    },
+    "charts/28639668.json": {
+      "bytes": 2345,
+      "sha256": "eaa2e0800af208dfcd2bae992db0fa2e0b353425a8657b9fa9fcf837d2e07a49"
+    },
+    "charts/28639668.png": {
+      "bytes": 64401,
+      "sha256": "24595ad7ed6515fc91045746a32f29e6db2cf591807727a0081abb1f78c392a8"
+    },
+    "charts/28639721.csv": {
+      "bytes": 558,
+      "sha256": "23abbd8caf21d87216f49d1445b6b45be7595504c34c3712500943a6ec32d449"
+    },
+    "charts/28639721.json": {
+      "bytes": 2834,
+      "sha256": "838bb0ece33221bff4dee59229b3916a090fe2afb671d8c3ab886c8c2eede62a"
+    },
+    "charts/28639721.png": {
+      "bytes": 110146,
+      "sha256": "c7af5383a503f46c9910966f1fc61c10ae698d45b129ff1f0a3fdf000640061e"
+    },
+    "charts/28639756.csv": {
+      "bytes": 814,
+      "sha256": "3748a47f691540cdfabc279226c2733f9e62e0b9e45e3a02dc195c31526be52c"
+    },
+    "charts/28639756.json": {
+      "bytes": 2708,
+      "sha256": "dc21c4e5792accba382a178699edee48737066fa28483a70b939da1f2486fae8"
+    },
+    "charts/28639756.png": {
+      "bytes": 75930,
+      "sha256": "7f374bcd4186da35db420ad42fbe63c5f26f81cf58247c6e2b26f53ecedcdb3d"
+    },
+    "charts/28643027.json": {
+      "bytes": 2567,
+      "sha256": "4e474eefd4a95e7484b9c03b663b6d828adb13b68e1e3afa2811284ba9afda4c"
+    },
+    "charts/28643027.png": {
+      "bytes": 44558,
+      "sha256": "aec9848390bd25f2cf97c6d541cb55fcd32eff58c2f266457e75d0a2b7b0a708"
+    },
+    "charts/28643027.rows.csv": {
+      "bytes": 1680,
+      "sha256": "cebd81ffa573ed79493e84f8ff91573fb8681434a14bd657c3ee23cfed096038"
+    },
+    "charts/28643188.csv": {
+      "bytes": 7405,
+      "sha256": "6950ba602ed0cb5e443169fc160a8c4cdfab797fff64ef1ca9fcd1897a52da71"
+    },
+    "charts/28643188.json": {
+      "bytes": 17929,
+      "sha256": "cfa3331d5bd7deebb72f88fadcf2bc65448df1f54e27dba73b469669f356cc67"
+    },
+    "charts/28643188.png": {
+      "bytes": 121582,
+      "sha256": "1a86b80ccf8face49355e7f1711a146298989b015042a5cf0faf7aaa5f595257"
+    },
+    "charts/28643347.csv": {
+      "bytes": 1315,
+      "sha256": "b6816be3e62a3676a19c9f1c8a432eec69cedbe7e3884b11c810e0ec9900bfa0"
+    },
+    "charts/28643347.json": {
+      "bytes": 3889,
+      "sha256": "52f506238dd8f32b6636a2c358da8ee14e8a4ca018c155277a59cc49bf2b49bd"
+    },
+    "charts/28643347.png": {
+      "bytes": 56067,
+      "sha256": "33cd4263371780b7e58377ee996d16df7a9cff2418ea1cc96e9639792b9b6502"
+    },
+    "charts/28643486.csv": {
+      "bytes": 359,
+      "sha256": "df5d86d5fd5f5d2d616b6e3758af5c45746d5663c50660eeb07ea01c7adf6557"
+    },
+    "charts/28643486.json": {
+      "bytes": 1725,
+      "sha256": "0cd33064775e7741db6d108a07fe57ccc9bfcbf5ec2c7717e4813cf7bdf49d49"
+    },
+    "charts/28643486.png": {
+      "bytes": 69473,
+      "sha256": "6252153b890c700517ab44e67541ff391c7397672d2b4eff99c8468c994433bf"
+    },
+    "charts/28643540.csv": {
+      "bytes": 342,
+      "sha256": "7a34ba7f1f642b5389da026060178d704e6f308ea2effbd8aa836ac824f9de4a"
+    },
+    "charts/28643540.json": {
+      "bytes": 1691,
+      "sha256": "a0d442480cc8421deb38796f49748016d252487c30ad3051682bf07e9509a2d6"
+    },
+    "charts/28643540.png": {
+      "bytes": 45187,
+      "sha256": "d64960dc4420bb861818fe88b53b66284e2a647ce02eb17f8d2fec2a68f57a1d"
+    },
+    "charts/28644198.json": {
+      "bytes": 1039,
+      "sha256": "60673767ff7e54b6c39f5044302a495aa7f2b855ccd5e208d1bc94c0b71fcec6"
+    },
+    "charts/28644198.png": {
+      "bytes": 35335,
+      "sha256": "54185efee5b304fb3fb6be8053369e1b5e0821e88cacacfd451a0426ce13833e"
+    },
+    "charts/28644198.rows.csv": {
+      "bytes": 206,
+      "sha256": "791552b2550113d92147d2d831308ef7559baad77b1b3c6da6dcbd96c74b9bae"
+    },
+    "charts/28644232.json": {
+      "bytes": 2074,
+      "sha256": "85b69d6b6f390d6af3f3fb8d5bde2c5aecffe3805bfd12502b422f302ced11cd"
+    },
+    "charts/28644232.png": {
+      "bytes": 63923,
+      "sha256": "3266199042022f8a4a84f83096c8ab4354ab145fbfff03d23c22fa910d756150"
+    },
+    "charts/28644232.rows.csv": {
+      "bytes": 925,
+      "sha256": "be0382a14ea8d6f72227b77f457851bf84d14abe2425da69bd8cfc35c3afc7f3"
+    },
+    "charts/28644235.csv": {
+      "bytes": 1097,
+      "sha256": "64ffcfecfaeb2eaf59a976845dacb0699ba3f0c83f16679e76ac4d78c6f3a6a2"
+    },
+    "charts/28644235.json": {
+      "bytes": 3238,
+      "sha256": "ab86cb2552c9ac1e2f4d8d2a4966204ad695f588117a2c6fc3013c4ab660e40b"
+    },
+    "charts/28644235.png": {
+      "bytes": 147418,
+      "sha256": "5ea3556ec73984232af1af170183e2f9f0bb190996c89edd15595a024e76ebc7"
+    },
+    "charts/28644306.json": {
+      "bytes": 3116,
+      "sha256": "55999fc0f4eb04f6a92d114a2f391016bc05a1a46c286dc52ac94629c7c2abfe"
+    },
+    "charts/28644306.png": {
+      "bytes": 95677,
+      "sha256": "7b5d044f306c398c58cffec86808cab8d7319abab4edd10799c24da9d852e828"
+    },
+    "charts/28644306.rows.csv": {
+      "bytes": 1498,
+      "sha256": "0d5a80e31ef20980d65519b56d9b9e864258d410f4b3747364899b38eb8a9809"
+    },
+    "charts/28646399.json": {
+      "bytes": 1627,
+      "sha256": "021a220c3d9035ead72300144b45560c5fefaf7a4ba5dd5d0e411fae9b6690ac"
+    },
+    "charts/28646399.png": {
+      "bytes": 69367,
+      "sha256": "ff7a41d24ba26891eec9238a81deec4ea63413750001096b6ac357ec5897a4c8"
+    },
+    "charts/28646399.rows.csv": {
+      "bytes": 673,
+      "sha256": "aa002e2aa8abaa43d6a941a30f460bd708509960e0d91c10e07579bd8f607f72"
+    },
+    "charts/28648557.csv": {
+      "bytes": 160,
+      "sha256": "1b21a9dc5704604a5efef36c9bf8548f1d6ec3cc2a9be24eb02ed1bbdd101dc2"
+    },
+    "charts/28648557.json": {
+      "bytes": 1194,
+      "sha256": "d243a0f700b88f5832820585dc6daace5bacced62348fcfa1a219fb080d0aa09"
+    },
+    "charts/28648557.png": {
+      "bytes": 29598,
+      "sha256": "12adaf0404277cd0437a1643b4361a9fa6a117f28d809d5b7163023452203f89"
+    },
+    "charts/28657133.csv": {
+      "bytes": 458,
+      "sha256": "7749fe5b95c863a32247320059aebb7943e14424b7a09b8803d0e383bbae1bce"
+    },
+    "charts/28657133.json": {
+      "bytes": 1857,
+      "sha256": "4a4e7eda4cbf751add2ec51005aa885bc81cbb3c00bca5db080a7fe16e8621b9"
+    },
+    "charts/28657133.png": {
+      "bytes": 68815,
+      "sha256": "6d813dc551694305cb80021c665a6a2c41bb16377bde6cfeb345f48feeddbd6a"
+    },
+    "charts/28657194.csv": {
+      "bytes": 921,
+      "sha256": "28791c5f5303f167efa53c2dd6583fe5263ef2c92601003b7c67b0c4a8dcaf70"
+    },
+    "charts/28657194.json": {
+      "bytes": 3678,
+      "sha256": "a0ff008f5fdf7bcfa28b88be0bcf0a46ebba7d21b868201ef0b3c7405cce25ab"
+    },
+    "charts/28657194.png": {
+      "bytes": 111749,
+      "sha256": "7046ee82724d0a74de5e46f0fedd1598b55064cf724a6cf3455c2a93761408fc"
+    },
+    "charts/28657338.csv": {
+      "bytes": 592,
+      "sha256": "92505fc7e2304dcebf4116065ddd33b12584900bbc5303739a1f4dd0d7d0336a"
+    },
+    "charts/28657338.json": {
+      "bytes": 3156,
+      "sha256": "3893ba2edf6cf61b900e7d998370ae4579214de3c7a99a4f262c51d5d6dedeb6"
+    },
+    "charts/28657338.png": {
+      "bytes": 103500,
+      "sha256": "2487284db758cb86b298b90eb653d2882a0d208742de4ae743228655576739bf"
+    },
+    "charts/28682091.csv": {
+      "bytes": 2150,
+      "sha256": "ff7a6cfc0aa5455793dde6f9ae150242bf51057d7e998f4b8b5650309f59adc5"
+    },
+    "charts/28682091.json": {
+      "bytes": 5197,
+      "sha256": "57a801702dee2a9f44cb1a3f389fbd9553ca53e81d11912e41a1b2b2135516c2"
+    },
+    "charts/28682091.png": {
+      "bytes": 84046,
+      "sha256": "46f614b96a7450e28ae8dd3d71af2d7fc71ad6d687fc7e83cc47040d6d5943d7"
+    },
+    "charts/28682160.csv": {
+      "bytes": 528,
+      "sha256": "60afe64a3fb18bcb0c6a4b6fdcba489d7d2adfba1537479b89bec59833435e71"
+    },
+    "charts/28682160.json": {
+      "bytes": 2310,
+      "sha256": "80e0ce21ed9adf66555dfa87df5d8e297d004e2d32ac4c261405fa08fcb2e6a7"
+    },
+    "charts/28682160.png": {
+      "bytes": 66473,
+      "sha256": "8f0026db9698e762e2578db9e0e388abd390ab0af34b76da213c671cac21554d"
+    },
+    "charts/28682551.csv": {
+      "bytes": 425,
+      "sha256": "bf61f060ca5de56958dc537ab0fe69dbd635bdfea860129a0b925f57c7a8409f"
+    },
+    "charts/28682551.json": {
+      "bytes": 2269,
+      "sha256": "df140507183cc814f4ef3c8a1c51fffd3c3ee24d4487e0e9faaaa36d60fc641f"
+    },
+    "charts/28682551.png": {
+      "bytes": 46410,
+      "sha256": "60683e3120c566d9a5ca859dc48a32d61ced839d35922fd8553b1361ec6cdb92"
+    },
+    "charts/28683446.csv": {
+      "bytes": 1046,
+      "sha256": "1cadbcbf7c1299d22ce852b111ef57f1f109bbfb09afeb076a6bcc97568bbb37"
+    },
+    "charts/28683446.json": {
+      "bytes": 2923,
+      "sha256": "7146b8506f6ecec127309b6c228b4424cbbdd9b254dc72567fcb457c3d13d007"
+    },
+    "charts/28683446.png": {
+      "bytes": 84102,
+      "sha256": "a9cda51f79f184bd643aff938df7d3708542dc71d6a805f31e39f4b60144f29f"
+    },
+    "charts/28683561.csv": {
+      "bytes": 2579,
+      "sha256": "19c8dce79768241a020df1a7919126af8fac12d21102fd8fa2baddaf71043887"
+    },
+    "charts/28683561.json": {
+      "bytes": 6456,
+      "sha256": "71f19d152a28bb30c1ba6b20d10d3f6245d107e1e1c3eb2b5d9f8a4993c6961f"
+    },
+    "charts/28683561.png": {
+      "bytes": 140237,
+      "sha256": "226bc3ef6b5e568e15b3ab979405e895b42aa55ec359c543d094db6bc055f70c"
+    },
+    "charts/28683626.csv": {
+      "bytes": 3810,
+      "sha256": "cb44b2fc3e3be9f4592eba7ecf6324d074d1f7a8334c1fab7041fdd8d10a0d8f"
+    },
+    "charts/28683626.json": {
+      "bytes": 7823,
+      "sha256": "54126e08dae56ce9983bb95a0f645959bcc12cd9a1f01fb5374ef37cfc6c26bd"
+    },
+    "charts/28683626.png": {
+      "bytes": 74112,
+      "sha256": "c9521b8ac21e69325854f8ca681cd0a7cfaa393c511f26570faa55f25153bf4d"
+    },
+    "charts/28683812.csv": {
+      "bytes": 38670,
+      "sha256": "d765ef8ca85190ec1978d5ce8c5c216dd0fedceb8dd35545919a9d18a43fa981"
+    },
+    "charts/28683812.json": {
+      "bytes": 83459,
+      "sha256": "fa6ba05009ba7576daba939724b79d130fab8bf3294d8209f0416f0a58eee92d"
+    },
+    "charts/28683812.png": {
+      "bytes": 155712,
+      "sha256": "b544581122471270fba424c489dd8f17e95f1380ca626a7fd59895dc1a1a4357"
+    },
+    "charts/28683981.csv": {
+      "bytes": 37394,
+      "sha256": "a89b18da9a805389b08302de319162e30dd0dfcf7cb83f987b25f08272fc6d07"
+    },
+    "charts/28683981.json": {
+      "bytes": 82594,
+      "sha256": "fd8c4af30d4aa075522c9799a03fff54f6f9973415e97ca6143194ba34078d26"
+    },
+    "charts/28683981.png": {
+      "bytes": 180593,
+      "sha256": "f81861ac0278a270ba8ddc44670a11d5a09175851ccb3b01624bbe3856b007a3"
+    },
+    "charts/28685297.csv": {
+      "bytes": 390,
+      "sha256": "3f835d4753e01b64447be210bd50b56dee2bd1e571aa96d643147b138a08ed64"
+    },
+    "charts/28685297.json": {
+      "bytes": 1529,
+      "sha256": "5bf02a0c7d3d4ca4ebb55f2d1cb59bf41c41d55e77d05e983817785348757271"
+    },
+    "charts/28685297.png": {
+      "bytes": 78699,
+      "sha256": "15ae2c33e852ff04292a166b5a3d159ac6fd1ec1f9362eb830419d95921140ee"
+    },
+    "charts/28720767.csv": {
+      "bytes": 20171,
+      "sha256": "504746550f8147217488e3d5e56449fdc60700fb59ba8113de0c0dbbd9943102"
+    },
+    "charts/28720767.json": {
+      "bytes": 40086,
+      "sha256": "d66ec8ce38b130c7f6cd2a8c8bc24e493b4e4842e5ada8d94e9396f62debf000"
+    },
+    "charts/28720767.png": {
+      "bytes": 134436,
+      "sha256": "afd39ad419ad16de2f501fa4d0d57cb6a3c6812a128de110f1d9ecc678276134"
+    },
+    "charts/28720792.csv": {
+      "bytes": 11721,
+      "sha256": "81d4960056ded4590368092ebd0f63a8363b1c87fc1e67c69de1f318e8818abf"
+    },
+    "charts/28720792.json": {
+      "bytes": 27135,
+      "sha256": "f56dea13535ef5b8dd5007c4b8db3b49a6f6e7b95309991b4c66dde85753be91"
+    },
+    "charts/28720792.png": {
+      "bytes": 158765,
+      "sha256": "f73f264008ad0e7ad3f27bdaf12720b0dc350bb3697ec088f99cefaa279a820e"
+    },
+    "charts/28720867.csv": {
+      "bytes": 13476,
+      "sha256": "95a395b7c74e1c5e13357397aca810715ecc7ef5721ca72d0b9ffa6570eeaa86"
+    },
+    "charts/28720867.json": {
+      "bytes": 31119,
+      "sha256": "5eb751ea5006b875ac0a91b92204d19267072e6a021d55007d6b151135aeb3b4"
+    },
+    "charts/28720867.png": {
+      "bytes": 93910,
+      "sha256": "89be9b0f8f2d0344a54957cc0bac54a6a8cd9882512074ba522f0f913d85dd35"
+    },
+    "charts/28720908.csv": {
+      "bytes": 11381,
+      "sha256": "476a0101a719c3c9b57ec16dc63fc85569cefd720e3471e30298c2054401c525"
+    },
+    "charts/28720908.json": {
+      "bytes": 26740,
+      "sha256": "58a7f42e89008f6812c14ab3fa52c67a2ba6d17bc2c01dec8ed280abf0b0a930"
+    },
+    "charts/28720908.png": {
+      "bytes": 100090,
+      "sha256": "1d519ec26a327e3d6836b126c2437ee8039d0fe3f3ccefac0277498463b9e91d"
+    },
+    "charts/28720949.csv": {
+      "bytes": 10870,
+      "sha256": "c289a58fb177d485d59f7fa15ead9755eae18d390185fd3d7ed69a1f4845e1cd"
+    },
+    "charts/28720949.json": {
+      "bytes": 26885,
+      "sha256": "bba1c4617955ec51de5389314e90096f1e4a3274e27c6257b85a8fa7b0f3cf44"
+    },
+    "charts/28720949.png": {
+      "bytes": 126054,
+      "sha256": "4b76b1198e242d2038ad20225ccabdc57c3d2dac53f966480f6edde3f77c88f9"
+    },
+    "charts/28720992.csv": {
+      "bytes": 978,
+      "sha256": "b680dbf51bddea6a0a3fc25b40761bd8f2f477fe66e048ba92c7dde73901de9c"
+    },
+    "charts/28720992.json": {
+      "bytes": 3112,
+      "sha256": "054cb4d8d47c87cddda250755ba0a0e8ae5e12f61a0432e0500919a2f872bd34"
+    },
+    "charts/28720992.png": {
+      "bytes": 58649,
+      "sha256": "896f1e280d134e9e23d59e89320cd43eadef97b566525365188e1855e47e1e60"
+    },
+    "charts/28721033.json": {
+      "bytes": 1730,
+      "sha256": "c969d83886b7a8d4d59859db8ea42dccabe202eb157a56d1f4d560a6f61df480"
+    },
+    "charts/28721033.png": {
+      "bytes": 65630,
+      "sha256": "9b960ba7b7e07f5959046906f642ba8fb1608ce3b4cc68e8b41b23fbffa72697"
+    },
+    "charts/28721033.rows.csv": {
+      "bytes": 820,
+      "sha256": "cbf5fba27045b65e40e4560b22c67ea42af69c79c534ab3097603880eb81004d"
+    },
+    "charts/28721103.json": {
+      "bytes": 1348,
+      "sha256": "6a2da7d41cf39bf91e6226a615501c8daa56b0ff22304a5fbf0550ad45d9ce3d"
+    },
+    "charts/28721103.png": {
+      "bytes": 44625,
+      "sha256": "7398e52f925f2ee9308ac15a9da120266a8b07e02d3caeed0778e38b316432ef"
+    },
+    "charts/28721103.rows.csv": {
+      "bytes": 550,
+      "sha256": "48c679fdfd56988b6ba50a143730750228cf30334d691adb1c5557c7d512384a"
+    },
+    "charts/28721144.json": {
+      "bytes": 1724,
+      "sha256": "0ccb953c7c4142922cdf3546f8aed294263761351ebc489554cc13474afeaf31"
+    },
+    "charts/28721144.png": {
+      "bytes": 68054,
+      "sha256": "8de06a92184c8516589e81e78dcac1b60f06560bfbfaa667724a430e7a43ec00"
+    },
+    "charts/28721144.rows.csv": {
+      "bytes": 863,
+      "sha256": "6e6a02ad17e1ae7591badecd9530ced41b74966aa900ca048057bc30be6061f9"
+    },
+    "charts/28721197.json": {
+      "bytes": 1018,
+      "sha256": "85fc5f054615621554e3fd082a4b468b96fbb4c5c3b4997e4d51ebb8af9c07f9"
+    },
+    "charts/28721197.png": {
+      "bytes": 30456,
+      "sha256": "1e9da772b2499437bb3151fc66a992ccb7aeb4c02fab0e2fb833cd00d3ab548e"
+    },
+    "charts/28721197.rows.csv": {
+      "bytes": 246,
+      "sha256": "922d5b8a411c66b08f7d6b0a4dc4bf2d94fb6cb57e23b618cd45963f20d852ec"
+    },
+    "charts/28724367.json": {
+      "bytes": 2050,
+      "sha256": "fd5e2cd9e5134374522b7a58e6dc3aebcaa74445e0f0b3957e164e8fdfc5f6a3"
+    },
+    "charts/28724367.png": {
+      "bytes": 91581,
+      "sha256": "801df03ebbe67ba9f27cb23da145f8ddb7692225a0fbbde0dbab0a256e9809b7"
+    },
+    "charts/28724367.rows.csv": {
+      "bytes": 586,
+      "sha256": "6f10fa17105c2f9a22e1cb809e0aa20d322ca1882494e2593c7ec0dc7a00a81e"
+    },
+    "charts/28724695.csv": {
+      "bytes": 15794,
+      "sha256": "47bfb557a34860140bd357c5677013925b62fad03c4ea0aabfc370de5360a9bf"
+    },
+    "charts/28724695.json": {
+      "bytes": 38522,
+      "sha256": "fcb328863ebc12df889660ef7bb544f389a1625171973227c6960c79d26b0267"
+    },
+    "charts/28724695.png": {
+      "bytes": 86179,
+      "sha256": "90cd9480784c86f9c859941c349f2824a2c953262c86dd5f0053e796bae49054"
+    },
+    "charts/28724889.csv": {
+      "bytes": 274,
+      "sha256": "1c775a3b85fefb651ec8e5e07f1b462c3fc9c12ab15eb51c9f8886bcd437f5c2"
+    },
+    "charts/28724889.json": {
+      "bytes": 1206,
+      "sha256": "868789e09d2832047e3fe77c610b1ee7d3e647a8680ec540184ea7d93189d3ec"
+    },
+    "charts/28724889.png": {
+      "bytes": 28847,
+      "sha256": "fb733ecb583d44486d494e0053f08af7980b67c8d2e77ab8eba8a6238e63b5ff"
+    },
+    "charts/28730069.csv": {
+      "bytes": 309,
+      "sha256": "827b202b5e86e897e1ac10e58c1259677edda4e9453b51ce19e4f1bae2b38515"
+    },
+    "charts/28730069.json": {
+      "bytes": 1979,
+      "sha256": "48bd014ca46ad493806d271547e9a58b202a650d4a9ecca3942419fc32c79fe8"
+    },
+    "charts/28730069.png": {
+      "bytes": 70365,
+      "sha256": "b169c7430ac19b3056a021f1a188166618ba83f80098d17a9e3f12bc7261931e"
+    },
+    "charts/28731172.json": {
+      "bytes": 1609,
+      "sha256": "5d4e94a6589f76bea5f336b80e95311237dbcea7e9ae83a1aadcddcfc10a9f7a"
+    },
+    "charts/28731172.png": {
+      "bytes": 68553,
+      "sha256": "28f69dee8606d68310b9ea9888cf6f30ac5af0a2d6b8f9156c80d036a40af4d2"
+    },
+    "charts/28731172.rows.csv": {
+      "bytes": 654,
+      "sha256": "5128d30ac6e1b72ea935a4c9b04ee4485224196dc6289fca9b6943a07b31b4b8"
+    },
+    "charts/28731325.csv": {
+      "bytes": 267,
+      "sha256": "331eb55cc8f5c53cdd68e8f29aea83ee0f1710a5910a99e3ef8f67ae2fa68e48"
+    },
+    "charts/28731325.json": {
+      "bytes": 1339,
+      "sha256": "c17c02ec7171880581eb50c730b0ff59475c286ef2a3d980ca314df42eb0fb95"
+    },
+    "charts/28731325.png": {
+      "bytes": 30507,
+      "sha256": "8614890f10341e1189acd4fc6a45763d9a7e522695d628746329e01a3e628e0c"
+    },
+    "charts/28732446.json": {
+      "bytes": 2398,
+      "sha256": "7891e294ebadd2c14877012f4ed2d76678740645081d83bd830976d654256ba0"
+    },
+    "charts/28732446.png": {
+      "bytes": 95066,
+      "sha256": "48b54c427c29abeff9bfe87adbbaa30896d44015e6dee3d72f448ecf5a424766"
+    },
+    "charts/28732446.rows.csv": {
+      "bytes": 820,
+      "sha256": "3a9f235d94962b96d7d1e18504eb0f7ca072f2deb0303ce5855d7601aaef5555"
+    },
+    "charts/28734714.csv": {
+      "bytes": 621,
+      "sha256": "22c940470cee29dbea8bcc12c75c918bcc002dba681179f76121d50d04d287f9"
+    },
+    "charts/28734714.json": {
+      "bytes": 1644,
+      "sha256": "90667fa114511e4b29923c62fcc839bc5fa7e2da0fca49dd2ff81fbb8759c05b"
+    },
+    "charts/28734714.png": {
+      "bytes": 113876,
+      "sha256": "81e3207bc82ff1de06f55006d8a396880a769135bd86fe0186d41b3f6829f4ba"
+    },
+    "charts/28743347.csv": {
+      "bytes": 25367,
+      "sha256": "592b16a277da4867723ded3a7a0c919bbea109aef5e09b718da00e508973cca0"
+    },
+    "charts/28743347.json": {
+      "bytes": 67469,
+      "sha256": "76774a2fcce17cbb741a4ea13429e01ab416a5eb6160fce2cee3f28002c07d70"
+    },
+    "charts/28743347.png": {
+      "bytes": 109769,
+      "sha256": "6714fab2425c4fac63a41f88b802e839845267ec010c735500b2bc3bb1aefaf3"
+    },
+    "charts/28753262.csv": {
+      "bytes": 61245,
+      "sha256": "eea3bb74a232ab817bcc346114add1b2af6063842682c9961ec3ff93ac5dddd3"
+    },
+    "charts/28753262.json": {
+      "bytes": 176290,
+      "sha256": "61b2d5c44b2fa3f14aaa81f44e12695f9193d84063835688f40d514788b26235"
+    },
+    "charts/28753262.png": {
+      "bytes": 118571,
+      "sha256": "8bd06a512f3cbbd8c3cd65b52fde08354cadfd690207e6cb48fd109d10b377f2"
+    },
+    "charts/28756823.json": {
+      "bytes": 2470,
+      "sha256": "0b4de1c7166af359b399d53fe11798b99bf5370db13709ea84526487b94d1c68"
+    },
+    "charts/28756823.png": {
+      "bytes": 82610,
+      "sha256": "db2ead4eb40f8f597d239c70501e97013a2a7d5105cd0cc9d74a80bbd16c4c01"
+    },
+    "charts/28756823.rows.csv": {
+      "bytes": 702,
+      "sha256": "fb3caa00ff2d69a434b01a656fd7b82ecb175c69abd2a3c8d23652ccbf33a6c2"
+    },
+    "charts/28757673.json": {
+      "bytes": 1483,
+      "sha256": "c0bd2f028bfad56442f952ba3cb2400145e8fe158a30c80d9882b593cc42e103"
+    },
+    "charts/28757673.png": {
+      "bytes": 49906,
+      "sha256": "a66768311358ead8d9e8df91903b213c4e0b13c8a40b0d6b33bc1d5042aee3b4"
+    },
+    "charts/28757673.rows.csv": {
+      "bytes": 350,
+      "sha256": "4715c64a2ef40199d44ec8624f5ab284928b2f7215c0baf0e1623c414a3c3fdc"
+    },
+    "charts/30594571.csv": {
+      "bytes": 1013,
+      "sha256": "a3521f52a9b189bd6e269a112a14a1e72de27c84c6657659f2fcc761f1cf928b"
+    },
+    "charts/30594571.json": {
+      "bytes": 2932,
+      "sha256": "f136dec47b1030fb8cb144587c669ee9771e90f052f465b85c9960d5d5c3bf39"
+    },
+    "charts/30594571.png": {
+      "bytes": 75893,
+      "sha256": "53860ddf45f4ad8f704c845b9db9c251d77f1dc7c49b592790f7a133bead3c6c"
+    },
+    "charts/30594684.json": {
+      "bytes": 1065,
+      "sha256": "9c115f19d1de813a86f81eb3b5a000227bb6280c15edae9b349482165ac24c58"
+    },
+    "charts/30594684.png": {
+      "bytes": 32077,
+      "sha256": "a3e56ee6d7cc4336dede4f05eb9498e8ee444e5451902c969d57aaa54f916927"
+    },
+    "charts/30594684.rows.csv": {
+      "bytes": 284,
+      "sha256": "e2478861327eb0e067a26ee28d54ddb12a756e5a751cf762cfdd47bbde6d345f"
+    },
+    "charts/30594709.json": {
+      "bytes": 2917,
+      "sha256": "b25406a75098f7180fc03e9d73daf27d914981ad74f0efcc134a1f77bcd695a3"
+    },
+    "charts/30594709.png": {
+      "bytes": 79820,
+      "sha256": "cb07505fa8179185232f86e1b9985471d59c9e5d907e8c2348cb4c9436726a82"
+    },
+    "charts/30594709.rows.csv": {
+      "bytes": 1251,
+      "sha256": "47b7a62b4d2125bd0cae49b6978a67d8bbe7a7889098f0b4ecf1469b1ac9ee8c"
+    },
+    "charts/30629314.csv": {
+      "bytes": 11820,
+      "sha256": "7a9921299764277fa2f05c6965b9fa3c6a421f28141f031239e9deec4a09ab17"
+    },
+    "charts/30629314.json": {
+      "bytes": 31052,
+      "sha256": "fdb2e729c3f926e75ba2f956ddd152d085fac2a564a1b0870d203049665bf054"
+    },
+    "charts/30629314.png": {
+      "bytes": 114560,
+      "sha256": "6fd9a6e83da8e0ea5901b545f4105f585413902351cc3976b2a29074075eec0a"
+    },
+    "charts/30629355.csv": {
+      "bytes": 1437,
+      "sha256": "2a3217ad4dfba50e024552442bdd06da9c102827258ce423f53e8df17c7a9e04"
+    },
+    "charts/30629355.json": {
+      "bytes": 4271,
+      "sha256": "a57d5eee8b4a5df69538bce38cc998bdd8e0fa6eed8335a3f56ccecf509c2695"
+    },
+    "charts/30629355.png": {
+      "bytes": 53841,
+      "sha256": "2f8e9cc0cf835407b8c92e5f4d742e6fdea0913f5f4509f345cc447201fc3e3b"
+    },
+    "charts/30629406.csv": {
+      "bytes": 344,
+      "sha256": "0c75c00b24e4d149b46c332782eaabc99d5a8a6fc36942d0782f14f53dcf9836"
+    },
+    "charts/30629406.json": {
+      "bytes": 1386,
+      "sha256": "1ba0856120893a0cd1367b64b6ae178250aa5689ab657abae0d646774f68c5b7"
+    },
+    "charts/30629406.png": {
+      "bytes": 52187,
+      "sha256": "0ab52fdeef1f4b58f1cc533a397c730c9aa3bf23692bdc2952e9331212345b60"
+    },
+    "charts/30629544.csv": {
+      "bytes": 321,
+      "sha256": "7c99b376037c5234c336acc249f8e5e3eba5ae2b7f756abd48f660c789f51b30"
+    },
+    "charts/30629544.json": {
+      "bytes": 1494,
+      "sha256": "8bf5cec15cce3b46e7b5a4f95876b56619b3c8c6dea3d8c6201d4f297e7ebe46"
+    },
+    "charts/30629544.png": {
+      "bytes": 49038,
+      "sha256": "b977dbdd4e064825d8e058c704254989490e0fadd9e792cc26034f90019e42a8"
+    },
+    "charts/30630121.csv": {
+      "bytes": 180443,
+      "sha256": "4683e5c89ab094fc1341dc338072f7060ed19ba71c87b42c8f64ce9a8408aae2"
+    },
+    "charts/30630121.json": {
+      "bytes": 382782,
+      "sha256": "17c6a254d2a00567728877cc5995fad412c79e47d135d45c4e47bc6b97bbdd59"
+    },
+    "charts/30630121.png": {
+      "bytes": 157848,
+      "sha256": "f5bc96a899f80f1cabfd2d94cfd52511552ce3b0c7328fd50a759d3afb1627cd"
+    },
+    "charts/30630374.csv": {
+      "bytes": 397,
+      "sha256": "08e4e2221558db97cf08a34878e48354af7ce3d1b029ef2f1a64fb35cd19d6ca"
+    },
+    "charts/30630374.json": {
+      "bytes": 1781,
+      "sha256": "37bc15efb7818f2695090c908084b4a3c3af806bf63d221aa6fcb023a8946943"
+    },
+    "charts/30630374.png": {
+      "bytes": 67368,
+      "sha256": "fcf81688d295202fd110a718a4cddfdd1b7cbd2adf291656935106d3dc8461f6"
+    },
+    "charts/30630431.csv": {
+      "bytes": 350,
+      "sha256": "4e453532f8fea1f8a836b8d8cc315b06e4032f209632bf1957b8191dc52f1a9d"
+    },
+    "charts/30630431.json": {
+      "bytes": 2247,
+      "sha256": "4d6bd3d455a68ad49b6952462d96bae2b3fc9fee7c84fe3a29f2854337e87204"
+    },
+    "charts/30630431.png": {
+      "bytes": 97177,
+      "sha256": "fc9a8c5f7105b8b2d5afc9511466788a636f07d09758278c7198f431feb1c682"
+    },
+    "charts/30630490.csv": {
+      "bytes": 817,
+      "sha256": "68fb6247b8c70816975397449ca8af818fffc0ce735169796da71e6805073ee8"
+    },
+    "charts/30630490.json": {
+      "bytes": 2853,
+      "sha256": "7ea7429f5228bbd1366d56424eea8dcd8a6e8bb3c33b581d779c0c852ae96c46"
+    },
+    "charts/30630490.png": {
+      "bytes": 110106,
+      "sha256": "49d0090098e7ad221e649c4976505d9e9a85d4db03d0f7cb217d0a4248376d33"
+    },
+    "charts/30645144.csv": {
+      "bytes": 297,
+      "sha256": "6547c2239baf2efc7373f98390b62e7c10fe71fe5c4e1060e1b90b423eba220b"
+    },
+    "charts/30645144.json": {
+      "bytes": 1990,
+      "sha256": "a9ebf061abcf6ea003c3f3f5e800f4fb9a3a675c65fa1e7365f286e3f6dd932f"
+    },
+    "charts/30645144.png": {
+      "bytes": 72286,
+      "sha256": "3dabe71c876b0c9874cc4e38200dce0429cfc9ccfcb014cc3d4ce68b8a40fb0d"
+    },
+    "charts/30645152.csv": {
+      "bytes": 243,
+      "sha256": "b37af211e6c9b4f0b0df68f428fd2d077955a4e074fe8872ef6dc53b5c5bea56"
+    },
+    "charts/30645152.json": {
+      "bytes": 1686,
+      "sha256": "147a66c1ac3cd9a15e7ec55635ea50351e647efcedf60f1c8d0f8da4963d3a91"
+    },
+    "charts/30645152.png": {
+      "bytes": 39939,
+      "sha256": "f959447dd0088174370b6383ed4e676b451f3bf06ebb023b1eda39ab380eb1f1"
+    },
+    "charts/30645182.csv": {
+      "bytes": 609,
+      "sha256": "80e093fa6e8b155b03a131d6a8b49aef0a7ca321d9d0e9d29aab7001c1a4e655"
+    },
+    "charts/30645182.json": {
+      "bytes": 2125,
+      "sha256": "915145f1c8d0ed3a60f648138a21f6d5dacf49830d634ca76c2d99351b16d598"
+    },
+    "charts/30645182.png": {
+      "bytes": 59903,
+      "sha256": "93f19bb8e9c7eeab7ee5f7f215fe7472ab447a1fb51efeb505c1785131c66dbe"
+    },
+    "charts/30645477.csv": {
+      "bytes": 216,
+      "sha256": "0c111cc36e59d3d5b3a5cafa7b902b2cd3d98c5913e651a5830b9540a958deee"
+    },
+    "charts/30645477.json": {
+      "bytes": 1521,
+      "sha256": "4439024033b9f673b0fd543fdc1d2ccad8dceeb543af736cde9bbd1f259cc378"
+    },
+    "charts/30645477.png": {
+      "bytes": 46476,
+      "sha256": "4f46ff9af713841ec6066cdf0f6f5d4a05d0b38f9d159d48a7f990e48bb1d7c5"
+    },
+    "charts/30646337.csv": {
+      "bytes": 584,
+      "sha256": "0deb0624825a7666c7d491f707c7c597d5765093598ffc2927e92b79a62d4fe2"
+    },
+    "charts/30646337.json": {
+      "bytes": 2285,
+      "sha256": "622aa43d961b6a1f518cc2d9a95380947226dbeb5a4177f329bca2fe1dbf6c94"
+    },
+    "charts/30646337.png": {
+      "bytes": 58614,
+      "sha256": "caa4e4e5cfa207a743a73c30e562bc452a8224ad32c50306e93be5591b391851"
+    },
+    "charts/30647020.csv": {
+      "bytes": 381,
+      "sha256": "1d194baea9f98c36b818219dc73af0956f9ae11fb09aab8069dfeb59f2e14936"
+    },
+    "charts/30647020.json": {
+      "bytes": 1960,
+      "sha256": "bd0fdf7438f3ff718a677e7281f7a819fe7fb2522a0ba1f404c12699fbe172d6"
+    },
+    "charts/30647020.png": {
+      "bytes": 44536,
+      "sha256": "3dfbb7852c8e560887f82e1178f62899ed5de3cecdab2864db72a2cb60d4781a"
+    },
+    "charts/30647271.csv": {
+      "bytes": 673,
+      "sha256": "57174866bcd54bac3a375659590e61f9a40aab21e4cd0326bfa48680d4ccf5db"
+    },
+    "charts/30647271.json": {
+      "bytes": 2732,
+      "sha256": "bd0115014e994d79dcbbb46161f34968da894cb043ad9bf83194ce452d139c18"
+    },
+    "charts/30647271.png": {
+      "bytes": 98705,
+      "sha256": "aabb5a4fdac7ea93de39e03347fa94a0d141242823d9bd36c37d3ffbb2f2ee74"
+    },
+    "charts/30647628.csv": {
+      "bytes": 2556,
+      "sha256": "b9ff4fb6b4fb15a5cf201a28cc4bbb77585f7fbc1e5a922394dd327a1c711479"
+    },
+    "charts/30647628.json": {
+      "bytes": 5915,
+      "sha256": "8259f9595cee143bf50c498e75fc32dbcb67ec22c68292c54de971598675e851"
+    },
+    "charts/30647628.png": {
+      "bytes": 101631,
+      "sha256": "15f690cd4992c92625a1dae35b860dcd22e1d68557738d77855ada5aef45c15f"
+    },
+    "charts/30647713.csv": {
+      "bytes": 582,
+      "sha256": "07c65245c476ad533847666b5e0279cf09ccb78ddea575702d1b960d92f25639"
+    },
+    "charts/30647713.json": {
+      "bytes": 3065,
+      "sha256": "64a0375161664a7920692ffd1e2d282b3990ece7a9cc4061f82c9a643f8d5ef6"
+    },
+    "charts/30647713.png": {
+      "bytes": 91483,
+      "sha256": "6e0f6001efd335f983d73277556e8608cb08d44150ef75501832832875e4c338"
+    },
+    "charts/30658498.json": {
+      "bytes": 826,
+      "sha256": "779b7a5d0fc7ef31c00a7dfb5fed706517a286c61a9489a4a75b92737a866d2a"
+    },
+    "charts/30658498.png": {
+      "bytes": 17164,
+      "sha256": "feb4b36667ce984cbc3c3453fe181a1206faab6bd29a5b0e602db9f5d77caa3d"
+    },
+    "charts/30658498.rows.csv": {
+      "bytes": 133,
+      "sha256": "7daa6254ec5a9400cc10fcb2cf7346d38665bf3cf3e97e3ba31fa9e275a0c936"
+    },
+    "charts/30658554.csv": {
+      "bytes": 320,
+      "sha256": "69876835b1eeae396628468e3ec372f41836a2cdeb4cdf4f78227a69f0755bb0"
+    },
+    "charts/30658554.json": {
+      "bytes": 1770,
+      "sha256": "433ee748362225a9265f2821712c776e4eb2c3209dc34fd74fff97fc4c41b282"
+    },
+    "charts/30658554.png": {
+      "bytes": 49266,
+      "sha256": "0c846ef3fc16adab1d5848db5db1c5885afd94ac92e7c175325042af59167f3c"
+    },
+    "charts/30658584.csv": {
+      "bytes": 199,
+      "sha256": "af44d167ef2abb9c1029ebee047812e53de845dfec36ce040c280006796451ef"
+    },
+    "charts/30658584.json": {
+      "bytes": 1311,
+      "sha256": "17885a1e952f018cd3c0cfdcaa108aaef23df5671c062d8a91d2cfa86facaffe"
+    },
+    "charts/30658584.png": {
+      "bytes": 31772,
+      "sha256": "db87db1641512fbe7213642a48be70e2e66218a1d09b18333ca7245dcbb9c601"
+    },
+    "charts/30658637.csv": {
+      "bytes": 788,
+      "sha256": "e00cd66d70fc453aea6ae6fde6e8647c394bec7c453e8e4c3468784647836fcb"
+    },
+    "charts/30658637.json": {
+      "bytes": 2559,
+      "sha256": "6dd46f749062e89c02efa359d1703fb92e7c10eafd5f39e1d021fd67a6ae70a3"
+    },
+    "charts/30658637.png": {
+      "bytes": 66572,
+      "sha256": "a3e2f4eeb61404f0c980d9f3031adddfaf991eebbede3ff7c64a526a703c6217"
+    },
+    "charts/30658844.csv": {
+      "bytes": 297,
+      "sha256": "e36f6f67ad79b6e1d8aecdbb50b60b058f7b3e3bc2f4811e39b349fc6538d3ca"
+    },
+    "charts/30658844.json": {
+      "bytes": 1643,
+      "sha256": "56ec3803c658d5215f4f7c244e408214f7ae530167701794ca00e4770514562c"
+    },
+    "charts/30658844.png": {
+      "bytes": 42535,
+      "sha256": "c868a2eb868639cca366cc44e82489fa4811d533400162434a6c2c86145da9f5"
+    },
+    "charts/30658901.csv": {
+      "bytes": 258,
+      "sha256": "8cacd84bff88acd6c0c379ce93b0a4505df3a6c6db7eddaefdc2a81e1df6c7f7"
+    },
+    "charts/30658901.json": {
+      "bytes": 1429,
+      "sha256": "ed09e4d3a211d3f711d1cedc5b79c8bb703eea75b89e420ae75330dac985eb17"
+    },
+    "charts/30658901.png": {
+      "bytes": 42622,
+      "sha256": "ad9b450df186ddad7f629618fd4de83b20e257197ffc175b6e55bf00c8480d98"
+    },
+    "charts/30670731.csv": {
+      "bytes": 251,
+      "sha256": "5cd8744a1db1f057bf26e3b0334864f073f3db8363dfdee7e0933257e934e760"
+    },
+    "charts/30670731.json": {
+      "bytes": 1823,
+      "sha256": "39f86974d348ab83ccaa8712ef4057910e8c657f32533cc6fa4c8d93f98fa38e"
+    },
+    "charts/30670731.png": {
+      "bytes": 49677,
+      "sha256": "806a9e67411af70c06aee1e5859ef6ab797d9bb36a764525caae4841882ef628"
+    },
+    "charts/30671681.csv": {
+      "bytes": 27982,
+      "sha256": "602e838cc690424867a566d135b4ab5fc6e4aefbab2db2f4b98b380e5e7d5035"
+    },
+    "charts/30671681.json": {
+      "bytes": 55363,
+      "sha256": "a3dad1c532b7d86a7fd11ff54b628fcc48397c951d9e6cf95af3ad6071ebcc8e"
+    },
+    "charts/30671681.png": {
+      "bytes": 88069,
+      "sha256": "f4a3c7df03e2b30a6834ab99507991fd2ac1a559881dcd6a4612648c653b08c1"
+    },
+    "charts/30671747.csv": {
+      "bytes": 16444,
+      "sha256": "07cd3d07bd01dfc882d69a1451bdb7fa520124e3023fef85a936bd400f226727"
+    },
+    "charts/30671747.json": {
+      "bytes": 37509,
+      "sha256": "eae948890a860ccedce5da207886055ff9357b72c8bc18fe218895e514e5223d"
+    },
+    "charts/30671747.png": {
+      "bytes": 112736,
+      "sha256": "a6d8e614adaf5e8057737f0b04228c75f3a779bc619ae81f1149330d145a9481"
+    },
+    "charts/30671868.csv": {
+      "bytes": 25956,
+      "sha256": "e1042a2f69b41440726203796bca48ce979aea3417553c006001cff7c20d6680"
+    },
+    "charts/30671868.json": {
+      "bytes": 58185,
+      "sha256": "345a8d10e029324a2934849370b76e457d5642554ffbc7586aee18e96d7c687f"
+    },
+    "charts/30671868.png": {
+      "bytes": 78772,
+      "sha256": "4ed2ad38fb0130cc40e1dce540b9598f09521407dfb0cb535e380f8455bf9ae6"
+    },
+    "charts/30671931.json": {
+      "bytes": 2130,
+      "sha256": "ae3618610af34758890454227285e77314ed4a60b93efeafcb3befe5d7b570e7"
+    },
+    "charts/30671931.png": {
+      "bytes": 76453,
+      "sha256": "e69d1aefcdf1f19a1e068b2370f2fdfd513287623abb24084a02623f1cd401ec"
+    },
+    "charts/30671931.rows.csv": {
+      "bytes": 1124,
+      "sha256": "c78ac5b0f0316dd7fd935e4e532675a4e83ce750379aa17363090251a3db22f3"
+    },
+    "charts/30671951.json": {
+      "bytes": 1831,
+      "sha256": "f874634021e98694713d1aa2b1c045f33436b86ff07f76962d88ad40a4f3ce7e"
+    },
+    "charts/30671951.png": {
+      "bytes": 61007,
+      "sha256": "e996e3b35839ac8d7430401c65888e1cbc0b9cfc516ed34aab62f9f3f5c0174e"
+    },
+    "charts/30671951.rows.csv": {
+      "bytes": 771,
+      "sha256": "c32146574dd68496a84dc037e38f89c5406374a4062c155490e4c0ec96b4f641"
+    },
+    "charts/30672095.csv": {
+      "bytes": 14952,
+      "sha256": "861e3d8b648e26ee8553076e4ad6bc384c20f34dcaf88a60756d2271f9fe3d75"
+    },
+    "charts/30672095.json": {
+      "bytes": 36872,
+      "sha256": "38cda7e95395ab69f4d25fffa23c403a5b3f8402b4e0ffbe38532934448c2c0e"
+    },
+    "charts/30672095.png": {
+      "bytes": 92350,
+      "sha256": "ee3ab20d43f835e6778c575dd6c2cc05cfb685c60421fd757bdada7bc88c7b52"
+    },
+    "charts/30672428.csv": {
+      "bytes": 16463,
+      "sha256": "b2982a5306769dbb747acfdfa5b10c37599f3d89f8ff8a1eb6f4509ced726c3c"
+    },
+    "charts/30672428.json": {
+      "bytes": 50540,
+      "sha256": "5fcef70d8ca3631bdc0d632aa5f985549eaf6525f84c4024d1fba7ffcb6630e5"
+    },
+    "charts/30672428.png": {
+      "bytes": 71270,
+      "sha256": "2b0ce32a552bd1787bb064c55a82d1f154619b4b0fb5781b39d41945d3ae4f06"
+    },
+    "charts/30691817.csv": {
+      "bytes": 13260,
+      "sha256": "904a8ca3f7749a070b8ce05bb0353c46f7eab28746354851abc76c2f6ebc74a0"
+    },
+    "charts/30691817.json": {
+      "bytes": 31192,
+      "sha256": "49742ccdf778afed310f175ea0f5a59ed2b8a2ff4770656d1f9a5b7d8abae419"
+    },
+    "charts/30691817.png": {
+      "bytes": 78471,
+      "sha256": "3e650259128ecd5f7f0cd227efcdcc2ce50efe8aa2d3b2d28b509159335d152a"
+    },
+    "charts/30694991.csv": {
+      "bytes": 29757,
+      "sha256": "b2dd9de54d422f54316343a01098654111642b004afbb8f3e01a2b0a34a78c29"
+    },
+    "charts/30694991.json": {
+      "bytes": 78662,
+      "sha256": "e251f388b9c272354d7383d6203ecfec2b1515fb5b2fbad53dee657831538b23"
+    },
+    "charts/30694991.png": {
+      "bytes": 72303,
+      "sha256": "48dade235b55bc5497c31e620319d4e39135b364e55e27075b377494f4b72519"
+    },
+    "charts/30695091.csv": {
+      "bytes": 7632,
+      "sha256": "14709a48bd385eb5555c2b4142128491b589a0b43f3f5fe13b547dc40894fe80"
+    },
+    "charts/30695091.json": {
+      "bytes": 17912,
+      "sha256": "00099eb6c024c68722ebe94cfe0ec5e0d7671f82220d84f6732fdc64e4ca1a51"
+    },
+    "charts/30695091.png": {
+      "bytes": 112347,
+      "sha256": "03aa67c84a431f09e967016364ee2b045eea803be3fe0ef7707005d29e7d3fbc"
+    },
+    "charts/30695302.csv": {
+      "bytes": 6707,
+      "sha256": "277fcf19eab84e9ae546fbb3fd2fd6959430b8e1fbe542c3cbbc252c0e00a49a"
+    },
+    "charts/30695302.json": {
+      "bytes": 11025,
+      "sha256": "a3f2ce95321a69296b8f3e2d46cd418e56eb4a7b2a4146b008d06f79007d021c"
+    },
+    "charts/30695302.png": {
+      "bytes": 48727,
+      "sha256": "fb25a526165bc99248155503f018357bccd7614cf30e52d10f81365cb99cc0bb"
+    },
+    "charts/30695372.csv": {
+      "bytes": 605,
+      "sha256": "4c5ae3cc10e4d41ac1abca76017d9bff41d04287a6be5a7fba396d774a3fe54b"
+    },
+    "charts/30695372.json": {
+      "bytes": 2590,
+      "sha256": "eb03fd87893913f269dceaac72ac679ddd9a3e65e121f46ca0e4c778761643b3"
+    },
+    "charts/30695372.png": {
+      "bytes": 40169,
+      "sha256": "abef37a44f5d4b1d8ec113ce6d1c59fb2a60b9b768e878fdb6eedef836277a59"
+    },
+    "charts/30695430.csv": {
+      "bytes": 3396,
+      "sha256": "ccf260411a94e330721d9e8b60e0878557fbab2b8a60c0662dd906e2c5a94bba"
+    },
+    "charts/30695430.json": {
+      "bytes": 9386,
+      "sha256": "8984f0bc287c08590e9e7998d671a35f9f060732676f716eda4857745ed84585"
+    },
+    "charts/30695430.png": {
+      "bytes": 50831,
+      "sha256": "5c88af858120117bb98c4a596c1906ef67a276ad9fd086644a33fc5ca5ce0c3a"
+    },
+    "charts/30695677.csv": {
+      "bytes": 284,
+      "sha256": "a52a1d68c9667a0707b5a8096d78f95549752a78b2e0bcf1718fe2c8ec09e229"
+    },
+    "charts/30695677.json": {
+      "bytes": 1752,
+      "sha256": "b1aaf514235230c17108f9d9f3e296f47496091c0a799c027f55ad38bb1c3dee"
+    },
+    "charts/30695677.png": {
+      "bytes": 32510,
+      "sha256": "ce43b998d42086df4517498b6317d1833c0813e0d3fcc2fe7912c06cfc7703bc"
+    },
+    "charts/30696146.csv": {
+      "bytes": 349,
+      "sha256": "77837f67f084aa15688caaf10815a79ca0d0c663e6c4846beaf0531b13ee25ae"
+    },
+    "charts/30696146.json": {
+      "bytes": 1180,
+      "sha256": "c57ee58527f000489c546740063012fe191e418fdcb4746a15b1e400e6d968c0"
+    },
+    "charts/30696146.png": {
+      "bytes": 40107,
+      "sha256": "9a817909db9ae062cc46b2dd7cf637cdff2a1f2b9498b4df38ef3a5d57caa636"
+    },
+    "charts/30696201.csv": {
+      "bytes": 351,
+      "sha256": "869afce90d547aa4e55c2e46b46089a2df4a5fa40f5e9899245b199c09ea866b"
+    },
+    "charts/30696201.json": {
+      "bytes": 1187,
+      "sha256": "cf5a927c78515cf82d1af2816a492bd2f8659270894ea24e683ca60fcf55e8da"
+    },
+    "charts/30696201.png": {
+      "bytes": 39497,
+      "sha256": "13e07cb310999f0c5a84b7943681de4bc253cf512459fd50ddac1ea1766814de"
+    },
+    "charts/30696231.csv": {
+      "bytes": 291,
+      "sha256": "322d8f7cfb0726b2ff3189687485e6ce20865702d34e29698b46b4058c7426db"
+    },
+    "charts/30696231.json": {
+      "bytes": 1054,
+      "sha256": "9ca0fc0e7a2a9e36db1c926655c12101aefccf6e264f535cbecc0dd075870569"
+    },
+    "charts/30696231.png": {
+      "bytes": 38420,
+      "sha256": "12fd1591de3efaafd1a246436a25266d35a6d2c52e077a304dac4d49f7911eb0"
+    },
+    "charts/30696265.csv": {
+      "bytes": 628,
+      "sha256": "ae68fa10b7cadd059d069a29fd65fc2ccbf38d88f480d6742faf756c629569b3"
+    },
+    "charts/30696265.json": {
+      "bytes": 1646,
+      "sha256": "d3dff35e97c270e4a4635b625f0d5f4d7069f0b5d53b83910264f70a215f28b3"
+    },
+    "charts/30696265.png": {
+      "bytes": 72664,
+      "sha256": "4c548609de311027ef80dff585ade62f1cf11c840d1118a5c89d71bf5bc71ecf"
+    },
+    "charts/30697477.csv": {
+      "bytes": 918,
+      "sha256": "3dd79d18e861c7028c5b03db10fbccb8c3b066d3ea40ebb40b0bd7664bdb21ef"
+    },
+    "charts/30697477.json": {
+      "bytes": 2981,
+      "sha256": "032db3fef2964a9d23b83ba95c552716de107c01074ab4356ee0a721c4630faa"
+    },
+    "charts/30697477.png": {
+      "bytes": 63910,
+      "sha256": "dfb123b85b346a1b9f4d3c8ba02bd0f571a19b42f895de233a5e977d2f1f9684"
+    },
+    "charts/30697664.json": {
+      "bytes": 1947,
+      "sha256": "26bf61b0232e65ecbb2b4dd71dcb3867c34318b1b229aa4f86b413a926ae8f99"
+    },
+    "charts/30697664.png": {
+      "bytes": 71936,
+      "sha256": "d15350ef004bbb7a513f1a4edcda33ded91d9d9f7d9fc69bbb2a5cef216e2f97"
+    },
+    "charts/30697664.rows.csv": {
+      "bytes": 966,
+      "sha256": "d05e007e14ecf24b113c90abf5f2eb9f6a6f9dbc838fcc6593c1b735efba1e76"
+    },
+    "charts/30705444.csv": {
+      "bytes": 87545,
+      "sha256": "f5cc9c3b24d38c84d1f5e7afe39ee42bd1d1a878f7675f0de7827f7d26b42a25"
+    },
+    "charts/30705444.json": {
+      "bytes": 262231,
+      "sha256": "a6cdc9242ac283a30a941915bb2f637a0052aac13305bfd62dee0509bc97c886"
+    },
+    "charts/30705444.png": {
+      "bytes": 104844,
+      "sha256": "adf2d169d735a93d055ce285a8908ff9e21c0d341d3d3dec169e54e1cd7a1199"
+    },
+    "charts/30705670.json": {
+      "bytes": 3249,
+      "sha256": "f2a1c6721abf05f114a8555cf11b999b6fe2f940b6d92bcaf60fda8adc0ceade"
+    },
+    "charts/30705670.png": {
+      "bytes": 132773,
+      "sha256": "665a38ccc23e12049ca73976bf25a057d600365f113b32ec73bec3de9fc4060f"
+    },
+    "charts/30705670.rows.csv": {
+      "bytes": 1315,
+      "sha256": "36e01c25137680fd4b5ee40e4f1cd6dc593a77ce76634d7ca189ba94bd386f79"
+    },
+    "charts/30722255.csv": {
+      "bytes": 954,
+      "sha256": "d2ef33f406def0cd5d0aea6c7b67670899323628f1fe65a2cd52af10d78f3409"
+    },
+    "charts/30722255.json": {
+      "bytes": 3421,
+      "sha256": "643bc6b82160cca5be00ad83538c7ec8607958c1e7918524830686816b45dfac"
+    },
+    "charts/30722255.png": {
+      "bytes": 70960,
+      "sha256": "8ffa54e6269927055023c7b243e6dfba0d15373e95795ea0b03ae23c6a93cbfa"
+    },
+    "charts/30722377.csv": {
+      "bytes": 843,
+      "sha256": "02553adc41cc4c47f4846cfab3088ef73ea476fd84dd7060ab716739665bf979"
+    },
+    "charts/30722377.json": {
+      "bytes": 3462,
+      "sha256": "43109d18a8e77e6c77cbbeb3942c624e18fce05c0c2a932c4824930751ac1523"
+    },
+    "charts/30722377.png": {
+      "bytes": 97599,
+      "sha256": "4522a8d91b2937fa406cb34195a79ec0d8bc6dfa4b4d78a1e8154ea20f3d34e0"
+    },
+    "charts/30722435.csv": {
+      "bytes": 416,
+      "sha256": "90882a2b28d8ec2a6521e09f15b8e755b043e3d869da2bdc978be4ae1f16fde2"
+    },
+    "charts/30722435.json": {
+      "bytes": 2339,
+      "sha256": "5f6bbe2fbf31d754b9e6c539869a6bf0c951ef8aba2e8dd5826975bbd96d86d2"
+    },
+    "charts/30722435.png": {
+      "bytes": 85338,
+      "sha256": "fb620172c1bba3b694c63796a8df86f9fd6e2dd0c452de1a063ecd7fc7d256ee"
+    },
+    "charts/30722479.csv": {
+      "bytes": 431,
+      "sha256": "b6d52fbad7313b62ff6cd8e2a3e14d16012c58fe524251b67cd8ec019b2be356"
+    },
+    "charts/30722479.json": {
+      "bytes": 2682,
+      "sha256": "684504108609e609cc72f75030944368706583933676e124ab953cd00b39efb5"
+    },
+    "charts/30722479.png": {
+      "bytes": 101168,
+      "sha256": "7f690d8b5267ddd9bf0d68701890665294e821e4c7caa2964178d5323e08a1e3"
+    },
+    "charts/30722505.csv": {
+      "bytes": 226,
+      "sha256": "954fc6e95e0e433883b5e39b8bfc7642db5e367b4022604f19e3032215bc0531"
+    },
+    "charts/30722505.json": {
+      "bytes": 1460,
+      "sha256": "bb14fb12a294b7a52789e8db7510aca90373130bf3af0b38e78ee36d9818fa15"
+    },
+    "charts/30722505.png": {
+      "bytes": 49267,
+      "sha256": "39c00f86f3c44651899e730c54effe86a37955df38a6a0c6ce38d8de7c75b3d6"
+    },
+    "charts/30722553.json": {
+      "bytes": 3151,
+      "sha256": "754cc065128b94696f34edfb658529c614a0fd5a9db673ac1c3ed22d2da1634b"
+    },
+    "charts/30722553.png": {
+      "bytes": 93602,
+      "sha256": "d11d72579ce1474ea9375f0f4cc557fecdd87b14d59e51af241053a1901b3382"
+    },
+    "charts/30722553.rows.csv": {
+      "bytes": 1386,
+      "sha256": "283837bb77069f6bb8038a6589295b22931a0f7083f0c906978b4e08effff8a9"
+    },
+    "charts/30736058.json": {
+      "bytes": 1202,
+      "sha256": "beb58ae3f9c89eb878fe3b6affdea812b35b45b15ced90d85c913ca50b471228"
+    },
+    "charts/30736058.png": {
+      "bytes": 27386,
+      "sha256": "bc092271fc762ae42d71c9e7e094f13ccfdc5d2ab7465da89dd40d9466840d0d"
+    },
+    "charts/30736058.rows.csv": {
+      "bytes": 303,
+      "sha256": "e84898edff9a5eb1a22e89cb2220d1ac3e78bdde205e9a61fb0fd2969e658c49"
+    },
+    "charts/30736084.json": {
+      "bytes": 893,
+      "sha256": "8bb42b8fc77f7d54a9bdfe199d856e9d5709c292133de906170d36c651ca3493"
+    },
+    "charts/30736084.png": {
+      "bytes": 19940,
+      "sha256": "14f93d8d2293e2451198849fe96997ed71596587bd8e2a46024286852fc25766"
+    },
+    "charts/30736084.rows.csv": {
+      "bytes": 157,
+      "sha256": "b336574e3b86cb27cf066130de7f47d37ba5ffc5d5ab591a56ae56ae7045e730"
+    },
+    "charts/30736511.json": {
+      "bytes": 1008,
+      "sha256": "417d13d43eda50e51e8be3041bcfc389d11bb4946b5ae1f25cf1b87cc413795f"
+    },
+    "charts/30736511.png": {
+      "bytes": 27867,
+      "sha256": "62ae9bfed139b8faba7b181b5aac00707ccc1a207800490e38c1798dc51cc02a"
+    },
+    "charts/30736511.rows.csv": {
+      "bytes": 233,
+      "sha256": "bfde25248076497680af64712561b2d62460ded5f96860a6a715c71f2a028f46"
+    },
+    "charts/30736567.json": {
+      "bytes": 949,
+      "sha256": "9ef48729ff8fb420a1c7a82a93ddd35db3eaf2f908865a45ae39994fa31b8117"
+    },
+    "charts/30736567.png": {
+      "bytes": 29075,
+      "sha256": "d7d5559b357e4563fd0b0260417d6f9ece9a5b4da6ab44d795d298fe50f47ce7"
+    },
+    "charts/30736567.rows.csv": {
+      "bytes": 320,
+      "sha256": "14403c51372c3a4cde90e93bcc2774590d1d55042645d5284e9ea2d46eb0619b"
+    },
+    "charts/30736587.json": {
+      "bytes": 1178,
+      "sha256": "c7692a2a93737a15d10ce890106f92546682eec39e0b9b61503c52f8032cb87a"
+    },
+    "charts/30736587.png": {
+      "bytes": 28202,
+      "sha256": "248797448d908d3136b64e9c68535ad41f21c6b269aafd239ab8c6941c69211d"
+    },
+    "charts/30736587.rows.csv": {
+      "bytes": 305,
+      "sha256": "2e8fc4f63ea04ed5825a08c7e78f1a10d0a62155651f7881627666e21a907de3"
+    },
+    "charts/30745509.json": {
+      "bytes": 3390,
+      "sha256": "34ce4f832b9ffbeae4a1636cf1e08c7a33a653f2bc159524ff9e482a7642b726"
+    },
+    "charts/30745509.png": {
+      "bytes": 146902,
+      "sha256": "381f5b37ecdb02f25c718d5b1463420998eb4e0042f1660989715b5da9010dfb"
+    },
+    "charts/30745509.rows.csv": {
+      "bytes": 1964,
+      "sha256": "555bd564385f98713cc972f551738947047f79077bc5a2ddaac7a93b99a33098"
+    },
+    "charts/30746171.csv": {
+      "bytes": 641,
+      "sha256": "14ebf62dbb47c24fa4ba8159d1e3821f4f21f23f742bfc3a7aca69d10765f528"
+    },
+    "charts/30746171.json": {
+      "bytes": 2849,
+      "sha256": "1c5747cd096d28a221873369c1289b9eb6b036858172f4d62ebdb4fa5d610b3f"
+    },
+    "charts/30746171.png": {
+      "bytes": 75310,
+      "sha256": "32f5d18eb423d49e8370e2a6ec42a97ae0b178ee5add2c295a52edfc9cd50f90"
+    },
+    "charts/30748841.csv": {
+      "bytes": 226,
+      "sha256": "1d3f3cef26d366770a8ed882117d63c94ae45a558670b200c0af0341841a56ad"
+    },
+    "charts/30748841.json": {
+      "bytes": 1542,
+      "sha256": "965f414e2835cb4136ebee83e9b956b34612a0e5429cf6f6e51233b362798900"
+    },
+    "charts/30748841.png": {
+      "bytes": 39818,
+      "sha256": "9945ac78996ca2a0e3c831c2c239827fe13ba1639162ec72b1879e5acd0de897"
+    },
+    "charts/30748910.csv": {
+      "bytes": 2768,
+      "sha256": "4f9d845a83518fe634170c80a48bd86eba982a904e095513349353bc0a721b74"
+    },
+    "charts/30748910.json": {
+      "bytes": 7517,
+      "sha256": "c1071eb3bf1d8140976540a5701df8da72f10a503487fb0aef175e83fedaead8"
+    },
+    "charts/30748910.png": {
+      "bytes": 115178,
+      "sha256": "d62def7220f5c1343d9320563c8b70f473108f52da5aa9372d960f61262eb18a"
+    },
+    "charts/30749325.csv": {
+      "bytes": 1835,
+      "sha256": "67b524073c6fdea600077a8e46ec5d67b17d41b2b563a33184eb5060708ea084"
+    },
+    "charts/30749325.json": {
+      "bytes": 5399,
+      "sha256": "424fc79866e84d529df0f4608c77b9511664de72c94c6e79ad18be2ff55f54d6"
+    },
+    "charts/30749325.png": {
+      "bytes": 85344,
+      "sha256": "f5f7f5638a8815ea5386a9f9319ee77f0f8c4655b880f2c560bb8185f1eb8371"
+    },
+    "charts/30749457.csv": {
+      "bytes": 1761,
+      "sha256": "4da2e6a7685d061a4e335d0d5085459b501d301d67921aefdb0331100ffe4854"
+    },
+    "charts/30749457.json": {
+      "bytes": 5386,
+      "sha256": "5873e6a9652ff43db97c98d7cdb754ae04ff3268dcbefc3dab914d7748f2e7ec"
+    },
+    "charts/30749457.png": {
+      "bytes": 99455,
+      "sha256": "d169f46d866a7c08d543eea7a03138e4f7e7b2f6688615a1b7c3f66b1e1b97aa"
+    },
+    "charts/30749653.csv": {
+      "bytes": 440,
+      "sha256": "9db242b1fc2beca48e0da9e9aa0804eff27b4d91168a9fbb43886cb32f89f143"
+    },
+    "charts/30749653.json": {
+      "bytes": 1887,
+      "sha256": "5157c85e901bfcaa201a6ddb9dd262fdae732e6f735fc16ccaa4d33c42283bd5"
+    },
+    "charts/30749653.png": {
+      "bytes": 51394,
+      "sha256": "cb4a020c9f8e263176391bab159542bbe6d5330e747173867af5b2c0118eecb7"
+    },
+    "charts/30749722.csv": {
+      "bytes": 310,
+      "sha256": "489ab21ba727340d42d326434f3e46e0dbc3d61a7738fa895ceb032a2f7721f9"
+    },
+    "charts/30749722.json": {
+      "bytes": 1637,
+      "sha256": "c39a4d553ca78b65cccdc878cd3851c89b8225d8f091253cea0831f90077dd2b"
+    },
+    "charts/30749722.png": {
+      "bytes": 45402,
+      "sha256": "1bbd86f9a322d1c5eb6adae499afe8a502ca2c286fb6c62db0df83ad9dbba5ae"
+    },
+    "charts/30749785.csv": {
+      "bytes": 1801,
+      "sha256": "827b553e75761d5cbf75b13207846c0d39d3968e85f716caf670db741add6e2a"
+    },
+    "charts/30749785.json": {
+      "bytes": 5425,
+      "sha256": "bddb6f8c625149d1a85996fe143c88b359d69c4e019b0a883e61703d2b579aa6"
+    },
+    "charts/30749785.png": {
+      "bytes": 91998,
+      "sha256": "c95808f3f16781ed89daeac7c39430dae490f10314e865193e452b9e3ad01b44"
+    },
+    "charts/30750175.csv": {
+      "bytes": 2359,
+      "sha256": "eb8b38510bf5b8dc24dee7e0da97c17942d8115ee8f2277b0bf71c1d6703b9c7"
+    },
+    "charts/30750175.json": {
+      "bytes": 6788,
+      "sha256": "9dd5bb35ee4124a5ff16801af3abba8f3dc322c1c142458af6093364ef0554d3"
+    },
+    "charts/30750175.png": {
+      "bytes": 121681,
+      "sha256": "4d2e39f78f8102c3a00669ff362af89b088bf31ba259e4c05ac86358f4e0e278"
+    },
+    "charts/30764527.csv": {
+      "bytes": 20467,
+      "sha256": "2c1b0d10a66c1c6a3e591546c5a1a816e20460979fdd8e0c4127be90cc2f932c"
+    },
+    "charts/30764527.json": {
+      "bytes": 61547,
+      "sha256": "e996a063953e8f287b1068488e3dcebb6e88613034f516b32e43dbf7f5234a58"
+    },
+    "charts/30764527.png": {
+      "bytes": 111691,
+      "sha256": "396210d569353cde3997a147f5092194bd1f200dcbb92644aa2d8f00decb7f2e"
+    },
+    "charts/30771457.json": {
+      "bytes": 1588,
+      "sha256": "987e6b580efa9234c10add12f26ab302a6634f2ad9c69b3736948a23c9fdc79b"
+    },
+    "charts/30771457.png": {
+      "bytes": 71214,
+      "sha256": "f96bd6a34d7edee55b6c38df86d4763f40aab3d2f70f3c2f7d5e1d7a8ad90324"
+    },
+    "charts/30771457.rows.csv": {
+      "bytes": 839,
+      "sha256": "14ed7cfabe7f0de35ba1e950d8382d6315670574fef668e85d1d0edbb30cd483"
+    },
+    "images/0c878bfa204a.png": {
+      "bytes": 239371,
+      "sha256": "d7e66d827d2aef16d94e7c152c06e685563fa04ad4475d35973482693dcade7e"
+    },
+    "images/1c5c79c84338.png": {
+      "bytes": 190673,
+      "sha256": "6b5093c20c4dccbc05723aa634b8578acea2d72abc3e48f7426020256f4d7296"
+    },
+    "images/8fdfaab1c3a2.png": {
+      "bytes": 226377,
+      "sha256": "8d97f94363a0d136ec360857de2bc6064e0471f3dc94513f6e089c5b85363993"
+    },
+    "images/b05f6736bea3.png": {
+      "bytes": 275705,
+      "sha256": "08b7e70b610e0b548275470b29ea4de57f5f2569deab89d9d4750c91c2c91cf7"
+    },
+    "images/cc90425a8570.png": {
+      "bytes": 215809,
+      "sha256": "68442e1b55939cd2549e6b461d5a2a3fac55c82edd54b49a171e44157d4eb39e"
+    },
+    "pdf/2026-autumn-update.pdf": {
+      "bytes": 2876922,
+      "sha256": "d7cbe0c9e6fe1b6e382d734969d4d4ba980e8d215079b008e7fefba2a3602e1e"
+    },
+    "pdf/2026-autumn-update__alternative.pdf": {
+      "bytes": 5095010,
+      "sha256": "1efb9fc3a3f346385346252edc1393b3056f8ecc1deb8caf23e6b7a60fc7945d"
+    },
+    "pdf/2026-autumn-update__bonds.pdf": {
+      "bytes": 3251885,
+      "sha256": "abf40773612f5d420001641f9a4b92c62149cbce6af45d3e01f72342a4499b0d"
+    },
+    "pdf/2026-autumn-update__stocks.pdf": {
+      "bytes": 6635756,
+      "sha256": "22d5a4debeaf53e293f9611f70307d372ff683468feadbc043871acdc4cc7bdc"
+    },
+    "pdf/2026.pdf": {
+      "bytes": 3154735,
+      "sha256": "484dc4fbb9a6a7a64271785f07f17884f7be4c9e8673897319a79020477dd423"
+    },
+    "pdf/2026__alternative.pdf": {
+      "bytes": 2969979,
+      "sha256": "72791e11d9ec17efdb053db15bb5e39ed829e780814aba6f79a06d5605ee6edd"
+    },
+    "pdf/2026__bonds.pdf": {
+      "bytes": 2198339,
+      "sha256": "68477490997b7d3845aa48e07cea5d63a29036130c2c446a0cdc204e6ff7b002"
+    },
+    "pdf/2026__short.pdf": {
+      "bytes": 2050104,
+      "sha256": "4b7a8d1ab0bed562f3ea155e837c80677183e263bda84b2b4c86bc901f83960f"
+    },
+    "pdf/2026__stocks.pdf": {
+      "bytes": 5041663,
+      "sha256": "163ca33d8c67f3dfaa534db7e95a69bd28f55c43669cc3fbe2073d17b6aa2338"
+    },
+    "raw/2026-autumn-update.html": {
+      "bytes": 1417831,
+      "sha256": "845d65c01c82ded75657d564b2860ed668c2e0f6023b4902e4dd8a5e6262a62b"
+    },
+    "raw/2026-autumn-update__alternative.html": {
+      "bytes": 1723741,
+      "sha256": "acc38d00dae72fd53b96cf3cd28a5c359bd6056a32948a2dc6e57b45c6521b51"
+    },
+    "raw/2026-autumn-update__bonds.html": {
+      "bytes": 1238915,
+      "sha256": "7339d9752db519d2dc4e6d1b3b36aa1d93f4db421b358d5174b13dc6c1821378"
+    },
+    "raw/2026-autumn-update__stocks.html": {
+      "bytes": 1743907,
+      "sha256": "f78313b9ab473203ace481c4c0f4ae381ef1371b92f8748c8746175d9b216a01"
+    },
+    "raw/2026.html": {
+      "bytes": 1399407,
+      "sha256": "5826e7abc4a7b171995d8338a36e557aa3241b501b1aed8eaf517da7ee912742"
+    },
+    "raw/2026__alternative.html": {
+      "bytes": 1412985,
+      "sha256": "8ef17d9d7957df6b051727e93e705fe04499e6a4e20be3fb93a260be44257cde"
+    },
+    "raw/2026__bonds.html": {
+      "bytes": 1261397,
+      "sha256": "c6743bb5b98d12bcf160bd4cf670be5790d816cdc27c47447a1f27dbf18fab84"
+    },
+    "raw/2026__short.html": {
+      "bytes": 1264024,
+      "sha256": "e87fd7cd79e043f93a14a936e09e150794e5552c4d0171f766cee7965d44f7ff"
+    },
+    "raw/2026__stocks.html": {
+      "bytes": 1917604,
+      "sha256": "5c6e07a180ea6b7c2d42cf66379d0d37f61a74c3b3beaff32fca069988f64143"
+    }
+  }
+}

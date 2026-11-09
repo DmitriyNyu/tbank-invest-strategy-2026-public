@@ -1,0 +1,84 @@
+{
+ "id": "30671931",
+ "source": "https://flo.uri.sh/visualisation/30671931/embed",
+ "template_id": "2240",
+ "version": "31",
+ "title": "Надежные облигации с фиксированным купоном ",
+ "key_settings": {
+  "layout.source_name": "Т-Инвестиции"
+ },
+ "column_names": {
+  "rows": {
+   "columns": [
+    "Облигация",
+    "ISIN",
+    "YTM, % годовых",
+    "Дата погашения/Put-оферты"
+   ]
+  }
+ },
+ "tables": {
+  "rows": {
+   "header": [
+    "Облигация",
+    "ISIN",
+    "YTM, % годовых",
+    "Дата погашения/Put-оферты"
+   ],
+   "rows": [
+    [
+     "ГК Азот 001Р-02",
+     "<a href=\"https://www.tbank.ru/invest/bonds/RU000A10EA40\">RU000A10EA40</a>",
+     "17,28",
+     "10.02.2028 (p)"
+    ],
+    [
+     "ПГК 003Р-02",
+     "<a href=\"https://www.tbank.ru/invest/bonds/RU000A10DSL1\">RU000A10DSL1</a>",
+     "17,15",
+     "26.03.2029 (p)"
+    ],
+    [
+     "Банк ГПБ БО 001Р-26Р",
+     "<a href=\"https://www.tbank.ru/invest/bonds/RU000A1064G3\">RU000A1064G3</a>",
+     "16,26",
+     "18.10.2028 (p)"
+    ],
+    [
+     "А101 БО-001Р-02",
+     "<a href=\"https://www.tbank.ru/invest/bonds/RU000A10DZU7\">RU000A10DZU7</a>",
+     "17,55",
+     "16.12.2027"
+    ],
+    [
+     "НоваБев Групп 003Р-02",
+     "<a href=\"https://www.tbank.ru/invest/bonds/RU000A10E7G1\">RU000A10E7G1</a>",
+     "16,59",
+     "20.01.2029"
+    ],
+    [
+     "ФПК 002Р-01",
+     "<a href=\"https://www.tbank.ru/invest/bonds/RU000A10DYC8\">RU000A10DYC8</a>",
+     "15,94",
+     "10.06.2028"
+    ],
+    [
+     "Авто Финанс Банк БО-001Р-15",
+     "<a href=\"https://www.tbank.ru/invest/bonds/RU000A10C6P6\">RU000A10C6P6</a>",
+     "16,53",
+     "09.07.2028"
+    ],
+    [
+     "ЕвразХолдинг Финанс 003P-04",
+     "<a href=\"https://www.tbank.ru/invest/bonds/RU000A10CKZ0\">RU000A10CKZ0</a>",
+     "16,39",
+     "13.02.2028"
+    ]
+   ]
+  }
+ },
+ "size_on_site": {
+  "w": 816,
+  "h": 500
+ }
+}

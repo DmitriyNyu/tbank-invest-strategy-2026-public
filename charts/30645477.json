@@ -1,0 +1,87 @@
+{
+ "id": "30645477",
+ "source": "https://flo.uri.sh/visualisation/30645477/embed",
+ "template_id": "93928",
+ "version": "43",
+ "title": "Рентабельность капитала",
+ "key_settings": {
+  "annotations.defaults.text_weight": "bold",
+  "axes_highlights.x_areas": "::2026*>>2028*",
+  "axes_highlights.y_lines": "Индекс Мосбиржи = −15% :: -15",
+  "chart_type": "column_grouped",
+  "layout.source_name": "данные компаний, расчеты Т-Инвестиций",
+  "legend_categorical.orientation": "horizontal",
+  "number_format_secondary.suffix": "%",
+  "number_format.suffix": "%"
+ },
+ "column_names": {
+  "data": {
+   "label": "Банк",
+   "metadata": [],
+   "value": [
+    "2 квартал 2025",
+    "2 квартал 2026"
+   ]
+  }
+ },
+ "tables": {
+  "data": {
+   "header": [
+    "Банк",
+    "2 квартал 2025",
+    "2 квартал 2026"
+   ],
+   "rows": [
+    [
+     "Т-Технологии*",
+     28,
+     28
+    ],
+    [
+     "ДОМ.РФ",
+     25,
+     24
+    ],
+    [
+     "Сбер",
+     23,
+     24
+    ],
+    [
+     "",
+     null,
+     null
+    ],
+    [
+     "Совкомбанк",
+     5.3,
+     23
+    ],
+    [
+     "МТС Банк",
+     8.8,
+     15
+    ],
+    [
+     "ㅤ",
+     null,
+     null
+    ],
+    [
+     "ВТБ",
+     21,
+     13
+    ],
+    [
+     "БСПБ",
+     17,
+     10
+    ]
+   ]
+  }
+ },
+ "size_on_site": {
+  "w": 816,
+  "h": 400
+ }
+}

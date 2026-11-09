@@ -1,0 +1,87 @@
+{
+ "id": "30748841",
+ "source": "https://flo.uri.sh/visualisation/30748841/embed",
+ "template_id": "93928",
+ "version": "87",
+ "title": "Баланс спроса и предложения",
+ "key_settings": {
+  "annotations.defaults.text_weight": "bold",
+  "axes_highlights.x_areas": "::2025 / 2026>>2026 / 2027",
+  "axes_highlights.y_lines": "0::",
+  "chart_type": "column_grouped",
+  "layout.source_name": "данные Мосбиржи, International Coffee Organisation, International Cocoa Organisation, расчеты Т-Инвестиций",
+  "legend_categorical.orientation": "horizontal",
+  "number_format_secondary.suffix": "%",
+  "y.title": "тыс. тонн"
+ },
+ "column_names": {
+  "data": {
+   "label": "Период",
+   "metadata": [],
+   "value": [
+    "Кофе",
+    "Какао"
+   ]
+  }
+ },
+ "tables": {
+  "data": {
+   "header": [
+    "Период",
+    "Кофе",
+    "Какао"
+   ],
+   "rows": [
+    [
+     "2018 / 2019",
+     -90,
+     33
+    ],
+    [
+     "2019 / 2020",
+     150,
+     100
+    ],
+    [
+     "2020 / 2021",
+     24,
+     306
+    ],
+    [
+     "2021 / 2022",
+     -504,
+     -256
+    ],
+    [
+     "2022 / 2023",
+     -222,
+     -42
+    ],
+    [
+     "2023 / 2024",
+     -180,
+     -448
+    ],
+    [
+     "2024 / 2025",
+     -378,
+     84
+    ],
+    [
+     "2025 / 2026",
+     180,
+     271
+    ],
+    [
+     "2026 / 2027",
+     600,
+     70
+    ]
+   ]
+  }
+ },
+ "size_on_site": {
+  "w": 816,
+  "h": 400
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "id": "28644232",
+ "source": "https://flo.uri.sh/visualisation/28644232/embed",
+ "template_id": "2240",
+ "version": "53",
+ "title": "Ключевые показатели компаний нефтегазового сектора ",
+ "key_settings": {
+  "layout.footer_note": "* прогнозы",
+  "layout.source_name": "расчеты Т-Инвестиций"
+ },
+ "column_names": {
+  "rows": {
+   "columns": [
+    "",
+    "Рекомендация",
+    "EV/EBITDA (2026)*",
+    "P/E (2026)*",
+    "Дивидендная доходность 2026* (начисленные)"
+   ]
+  }
+ },
+ "tables": {
+  "rows": {
+   "header": [
+    "columns_0",
+    "Рекомендация",
+    "EV/EBITDA (2026)*",
+    "P/E (2026)*",
+    "Дивидендная доходность 2026* (начисленные)"
+   ],
+   "rows": [
+    [
+     "<a href=\"https://www.tbank.ru/invest/stocks/LKOH/\">Лукойл</a>",
+     "Держать",
+     "2,6",
+     "6,1",
+     "10%"
+    ],
+    [
+     "<a href=\"https://www.tbank.ru/invest/stocks/SIBN/\">Газпром нефть</a>",
+     "Держать",
+     "3,0",
+     "7,8",
+     "8%"
+    ],
+    [
+     "<a href=\"https://www.tbank.ru/invest/stocks/ROSN/\">Роснефть</a>",
+     "Держать",
+     "3,3",
+     "7,8",
+     "6%"
+    ],
+    [
+     "<a href=\"https://www.tbank.ru/invest/stocks/TATN/\">Татнефть</a>",
+     "Покупать",
+     "3,2",
+     "5,7",
+     "10%"
+    ],
+    [
+     "<a href=\"https://www.tbank.ru/invest/stocks/NVTK/\">НОВАТЭК</a>",
+     "Покупать",
+     "6,0",
+     "7,3",
+     "8%"
+    ],
+    [
+     "<a href=\"https://www.tbank.ru/invest/stocks/TRNFP/\">Транснефть</a>",
+     "Покупать",
+     "1,2",
+     "3,8",
+     "13%"
+    ],
+    [
+     "<a href=\"https://www.tbank.ru/invest/stocks/SNGS/\">Сургутнефтегаз ап</a>",
+     "Покупать",
+     "na",
+     "1,0",
+     "17%"
+    ]
+   ]
+  }
+ },
+ "size_on_site": {
+  "w": 1104,
+  "h": 500
+ }
+}

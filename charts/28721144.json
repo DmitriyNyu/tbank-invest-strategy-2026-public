@@ -1,0 +1,72 @@
+{
+ "id": "28721144",
+ "source": "https://flo.uri.sh/visualisation/28721144/embed",
+ "template_id": "2240",
+ "version": "30",
+ "title": "Без названия",
+ "key_settings": {
+  "layout.source_name": "Т-Инвестиции"
+ },
+ "column_names": {
+  "rows": {
+   "columns": [
+    "Облигация",
+    "ISIN",
+    "YTM/P, % годовых",
+    "Дата погашения/put-оферты"
+   ]
+  }
+ },
+ "tables": {
+  "rows": {
+   "header": [
+    "Облигация",
+    "ISIN",
+    "YTM/P, % годовых",
+    "Дата погашения/put-оферты"
+   ],
+   "rows": [
+    [
+     "ПГК 003Р-02",
+     "<a href=\"https://www.tbank.ru/invest/bonds/RU000A10DSL1/\">RU000A10DSL1</a>",
+     "16,60%",
+     "29.03.2029 (р)"
+    ],
+    [
+     "Европлан 001Р-09",
+     "<a href=\"https://www.tbank.ru/invest/bonds/RU000A10ASC6/\">RU000A10ASC6</a>",
+     "15,99%",
+     "14.07.2028"
+    ],
+    [
+     "АБЗ-1 002Р-06",
+     "<a href=\"https://www.tbank.ru/invest/bonds/RU000A10EW51/\">RU000A10EW51</a>",
+     "19,15%",
+     "01.04.2029"
+    ],
+    [
+     "ВИС ФИНАНС БО-П11",
+     "<a href=\"https://www.tbank.ru/invest/bonds/RU000A10EES4/\">RU000A10EES4</a>",
+     "17,10%",
+     "15.02.2029"
+    ],
+    [
+     "Селигдар 001Р-10",
+     "<a href=\"https://www.tbank.ru/invest/bonds/RU000A10EC22/\">RU000A10EC22</a>",
+     "17,02%",
+     "07.04.2029"
+    ],
+    [
+     "Авто Финанс Банк БО-001Р-18",
+     "<a href=\"https://www.tbank.ru/invest/bonds/RU000A10EQ34/\">RU000A10EQ34</a>",
+     "15,21%",
+     "14.03.2029"
+    ]
+   ]
+  }
+ },
+ "size_on_site": {
+  "w": 1104,
+  "h": 400
+ }
+}

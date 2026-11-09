@@ -1,0 +1,97 @@
+{
+ "id": "30645152",
+ "source": "https://flo.uri.sh/visualisation/30645152/embed",
+ "template_id": "93928",
+ "version": "40",
+ "title": "Чистая прибыль банковского сектора",
+ "key_settings": {
+  "annotations.defaults.text_weight": "bold",
+  "axes_highlights.x_areas": "::2026*>>2028*",
+  "axes_highlights.y_lines": "Индекс Мосбиржи = −15% :: -15",
+  "chart_type": "column_grouped",
+  "layout.footer_note": "* Середина прогнозного диапазона ЦБ РФ",
+  "layout.source_name": "данные и прогнозы Банка России",
+  "legend_categorical.orientation": "horizontal",
+  "number_format_secondary.suffix": "%"
+ },
+ "column_names": {
+  "data": {
+   "label": "Чистая прибыль сектора",
+   "metadata": [],
+   "value": [
+    "2025",
+    "2026"
+   ]
+  }
+ },
+ "tables": {
+  "data": {
+   "header": [
+    "Чистая прибыль сектора",
+    "2025",
+    "2026"
+   ],
+   "rows": [
+    [
+     "1 мес.",
+     0.3,
+     0.4
+    ],
+    [
+     "2 мес.",
+     0.5,
+     0.8
+    ],
+    [
+     "3 мес.",
+     0.7,
+     1.2
+    ],
+    [
+     "4 мес.",
+     1,
+     1.6
+    ],
+    [
+     "5 мес.",
+     1.3,
+     2
+    ],
+    [
+     "6 мес.",
+     1.8,
+     2.4
+    ],
+    [
+     "7 мес.",
+     2.2,
+     2.8
+    ],
+    [
+     "8 мес.",
+     2.4,
+     3.3
+    ],
+    [
+     "9 мес.",
+     2.8,
+     3.7
+    ],
+    [
+     "",
+     null,
+     null
+    ],
+    [
+     "Год*",
+     3.7,
+     4.2
+    ]
+   ]
+  }
+ },
+ "size_on_site": {
+  "w": 816,
+  "h": 300
+ }
+}
